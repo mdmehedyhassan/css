@@ -666,16 +666,49 @@
     .d-sm-block {
         display: block;
     }
+
     .text-sm-start {
         text-align: left;
     }
-    
+
     .text-sm-end {
         text-align: right;
     }
-    
+
     .text-sm-center {
         text-align: center;
+    }
+
+    .w-sm-25 {
+        width: 25% !important;
+    }
+
+    .w-sm-50 {
+        width: 50% !important;
+    }
+
+    .w-sm-75 {
+        width: 75% !important;
+    }
+
+    .w-sm-100 {
+        width: 100% !important;
+    }
+
+    .h-sm-25 {
+        height: 25% !important;
+    }
+
+    .h-sm-50 {
+        height: 50% !important;
+    }
+
+    .h-sm-75 {
+        height: 75% !important;
+    }
+
+    .h-sm-100 {
+        height: 100% !important;
     }
 
     .flex-sm-row {
@@ -807,17 +840,51 @@
     .d-md-block {
         display: block;
     }
+
     .text-md-start {
         text-align: left;
     }
-    
+
     .text-md-end {
         text-align: right;
     }
-    
+
     .text-md-center {
         text-align: center;
     }
+
+    .w-md-25 {
+        width: 25% !important;
+    }
+
+    .w-md-50 {
+        width: 50% !important;
+    }
+
+    .w-md-75 {
+        width: 75% !important;
+    }
+
+    .w-md-100 {
+        width: 100% !important;
+    }
+
+    .h-md-25 {
+        height: 25% !important;
+    }
+
+    .h-md-50 {
+        height: 50% !important;
+    }
+
+    .h-md-75 {
+        height: 75% !important;
+    }
+
+    .h-md-100 {
+        height: 100% !important;
+    }
+
     .flex-md-row {
         flex-direction: row !important;
     }
@@ -947,17 +1014,51 @@
     .d-lg-block {
         display: block;
     }
+
     .text-sm-start {
         text-align: left;
     }
-    
+
     .text-lg-end {
         text-align: right;
     }
-    
+
     .text-lg-center {
         text-align: center;
     }
+
+    .w-lg-25 {
+        width: 25% !important;
+    }
+
+    .w-lg-50 {
+        width: 50% !important;
+    }
+
+    .w-lg-75 {
+        width: 75% !important;
+    }
+
+    .w-lg-100 {
+        width: 100% !important;
+    }
+
+    .h-lg-25 {
+        height: 25% !important;
+    }
+
+    .h-lg-50 {
+        height: 50% !important;
+    }
+
+    .h-lg-75 {
+        height: 75% !important;
+    }
+
+    .h-lg-100 {
+        height: 100% !important;
+    }
+
     .flex-lg-row {
         flex-direction: row !important;
     }
@@ -1087,17 +1188,51 @@
     .d-xl-block {
         display: block;
     }
+
     .text-xl-start {
         text-align: left;
     }
-    
+
     .text-xl-end {
         text-align: right;
     }
-    
+
     .text-xl-center {
         text-align: center;
     }
+
+    .w-xl-25 {
+        width: 25% !important;
+    }
+
+    .w-xl-50 {
+        width: 50% !important;
+    }
+
+    .w-xl-75 {
+        width: 75% !important;
+    }
+
+    .w-xl-100 {
+        width: 100% !important;
+    }
+
+    .h-xl-25 {
+        height: 25% !important;
+    }
+
+    .h-xl-50 {
+        height: 50% !important;
+    }
+
+    .h-xl-75 {
+        height: 75% !important;
+    }
+
+    .h-xl-100 {
+        height: 100% !important;
+    }
+
     .flex-xl-row {
         flex-direction: row !important;
     }
@@ -1227,17 +1362,51 @@
     .d-xxl-block {
         display: block;
     }
+
     .text-xxl-start {
         text-align: left;
     }
-    
+
     .text-xxl-end {
         text-align: right;
     }
-    
+
     .text-xxl-center {
         text-align: center;
     }
+
+    .w-xxl-25 {
+        width: 25% !important;
+    }
+
+    .w-xxl-50 {
+        width: 50% !important;
+    }
+
+    .w-xxl-75 {
+        width: 75% !important;
+    }
+
+    .w-xxl-100 {
+        width: 100% !important;
+    }
+
+    .h-xxl-25 {
+        height: 25% !important;
+    }
+
+    .h-xxl-50 {
+        height: 50% !important;
+    }
+
+    .h-xxl-75 {
+        height: 75% !important;
+    }
+
+    .h-xxl-100 {
+        height: 100% !important;
+    }
+
     .flex-xxl-row {
         flex-direction: row !important;
     }
@@ -8883,3597 +9052,3952 @@
 }
 
 @media (min-width: 2000px) {
-    .p-xxl-0{
+    .p-xxl-0 {
         padding: 0;
     }
-    .p-xxl-1{
+
+    .p-xxl-1 {
         padding: 1px;
     }
-    .p-xxl-2{
+
+    .p-xxl-2 {
         padding: 2px;
     }
-    .p-xxl-3{
+
+    .p-xxl-3 {
         padding: 3px;
     }
-    .p-xxl-4{
+
+    .p-xxl-4 {
         padding: 4px;
     }
-    .p-xxl-5{
+
+    .p-xxl-5 {
         padding: 5px;
     }
-    .p-xxl-10{
+
+    .p-xxl-10 {
         padding: 10px;
     }
-    .p-xxl-15{
+
+    .p-xxl-15 {
         padding: 15px;
     }
-    .p-xxl-20{
+
+    .p-xxl-20 {
         padding: 20px;
     }
-    .p-xxl-25{
+
+    .p-xxl-25 {
         padding: 25px;
     }
-    .p-xxl-30{
+
+    .p-xxl-30 {
         padding: 30px;
     }
-    .p-xxl-35{
+
+    .p-xxl-35 {
         padding: 35px;
     }
-    .p-xxl-40{
+
+    .p-xxl-40 {
         padding: 40px;
     }
-    .p-xxl-45{
+
+    .p-xxl-45 {
         padding: 45px;
     }
-    .p-xxl-50{
+
+    .p-xxl-50 {
         padding: 50px;
     }
-    .p-xxl-55{
+
+    .p-xxl-55 {
         padding: 55px;
     }
-    .p-xxl-60{
+
+    .p-xxl-60 {
         padding: 60px;
     }
-    .p-xxl-65{
+
+    .p-xxl-65 {
         padding: 65px;
     }
-    .p-xxl-70{
+
+    .p-xxl-70 {
         padding: 70px;
     }
-    .p-xxl-75{
+
+    .p-xxl-75 {
         padding: 75px;
     }
-    .p-xxl-80{
+
+    .p-xxl-80 {
         padding: 80px;
     }
-    .p-xxl-85{
+
+    .p-xxl-85 {
         padding: 85px;
     }
-    .p-xxl-90{
+
+    .p-xxl-90 {
         padding: 90px;
     }
-    .p-xxl-95{
+
+    .p-xxl-95 {
         padding: 95px;
     }
-    .p-xxl-100{
+
+    .p-xxl-100 {
         padding: 100px;
     }
-    .ps-xxl-0{
+
+    .ps-xxl-0 {
         padding-left: 0;
     }
-    .ps-xxl-1{
+
+    .ps-xxl-1 {
         padding-left: 1px;
     }
-    .ps-xxl-2{
+
+    .ps-xxl-2 {
         padding-left: 2px;
     }
-    .ps-xxl-3{
+
+    .ps-xxl-3 {
         padding-left: 3px;
     }
-    .ps-xxl-4{
+
+    .ps-xxl-4 {
         padding-left: 4px;
     }
-    .ps-xxl-5{
+
+    .ps-xxl-5 {
         padding-left: 5px;
     }
-    .ps-xxl-10{
+
+    .ps-xxl-10 {
         padding-left: 10px;
     }
-    .ps-xxl-15{
+
+    .ps-xxl-15 {
         padding-left: 15px;
     }
-    .ps-xxl-20{
+
+    .ps-xxl-20 {
         padding-left: 20px;
     }
-    .ps-xxl-25{
+
+    .ps-xxl-25 {
         padding-left: 25px;
     }
-    .ps-xxl-30{
+
+    .ps-xxl-30 {
         padding-left: 30px;
     }
-    .ps-xxl-35{
+
+    .ps-xxl-35 {
         padding-left: 35px;
     }
-    .ps-xxl-40{
+
+    .ps-xxl-40 {
         padding-left: 40px;
     }
-    .ps-xxl-45{
+
+    .ps-xxl-45 {
         padding-left: 45px;
     }
-    .ps-xxl-50{
+
+    .ps-xxl-50 {
         padding-left: 50px;
     }
-    .ps-xxl-55{
+
+    .ps-xxl-55 {
         padding-left: 55px;
     }
-    .ps-xxl-60{
+
+    .ps-xxl-60 {
         padding-left: 60px;
     }
-    .ps-xxl-65{
+
+    .ps-xxl-65 {
         padding-left: 65px;
     }
-    .ps-xxl-70{
+
+    .ps-xxl-70 {
         padding-left: 70px;
     }
-    .ps-xxl-75{
+
+    .ps-xxl-75 {
         padding-left: 75px;
     }
-    .ps-xxl-80{
+
+    .ps-xxl-80 {
         padding-left: 80px;
     }
-    .ps-xxl-85{
+
+    .ps-xxl-85 {
         padding-left: 85px;
     }
-    .ps-xxl-90{
+
+    .ps-xxl-90 {
         padding-left: 90px;
     }
-    .ps-xxl-95{
+
+    .ps-xxl-95 {
         padding-left: 95px;
     }
-    .ps-xxl-100{
+
+    .ps-xxl-100 {
         padding-left: 100px;
     }
-    .pe-xxl-0{
+
+    .pe-xxl-0 {
         padding-right: 0;
     }
-    .pe-xxl-1{
+
+    .pe-xxl-1 {
         padding-right: 1px;
     }
-    .pe-xxl-2{
+
+    .pe-xxl-2 {
         padding-right: 2px;
     }
-    .pe-xxl-3{
+
+    .pe-xxl-3 {
         padding-right: 3px;
     }
-    .pe-xxl-4{
+
+    .pe-xxl-4 {
         padding-right: 4px;
     }
-    .pe-xxl-5{
+
+    .pe-xxl-5 {
         padding-right: 5px;
     }
-    .pe-xxl-10{
+
+    .pe-xxl-10 {
         padding-right: 10px;
     }
-    .pe-xxl-15{
+
+    .pe-xxl-15 {
         padding-right: 15px;
     }
-    .pe-xxl-20{
+
+    .pe-xxl-20 {
         padding-right: 20px;
     }
-    .pe-xxl-25{
+
+    .pe-xxl-25 {
         padding-right: 25px;
     }
-    .pe-xxl-30{
+
+    .pe-xxl-30 {
         padding-right: 30px;
     }
-    .pe-xxl-35{
+
+    .pe-xxl-35 {
         padding-right: 35px;
     }
-    .pe-xxl-40{
+
+    .pe-xxl-40 {
         padding-right: 40px;
     }
-    .pe-xxl-45{
+
+    .pe-xxl-45 {
         padding-right: 45px;
     }
-    .pe-xxl-50{
+
+    .pe-xxl-50 {
         padding-right: 50px;
     }
-    .pe-xxl-55{
+
+    .pe-xxl-55 {
         padding-right: 55px;
     }
-    .pe-xxl-60{
+
+    .pe-xxl-60 {
         padding-right: 60px;
     }
-    .pe-xxl-65{
+
+    .pe-xxl-65 {
         padding-right: 65px;
     }
-    .pe-xxl-70{
+
+    .pe-xxl-70 {
         padding-right: 70px;
     }
-    .pe-xxl-75{
+
+    .pe-xxl-75 {
         padding-right: 75px;
     }
-    .pe-xxl-80{
+
+    .pe-xxl-80 {
         padding-right: 80px;
     }
-    .pe-xxl-85{
+
+    .pe-xxl-85 {
         padding-right: 85px;
     }
-    .pe-xxl-90{
+
+    .pe-xxl-90 {
         padding-right: 90px;
     }
-    .pe-xxl-95{
+
+    .pe-xxl-95 {
         padding-right: 95px;
     }
-    .pe-xxl-100{
+
+    .pe-xxl-100 {
         padding-right: 100px;
     }
-    .pt-xxl-0{
+
+    .pt-xxl-0 {
         padding-top: 0;
     }
-    .pt-xxl-1{
+
+    .pt-xxl-1 {
         padding-top: 1px;
     }
-    .pt-xxl-2{
+
+    .pt-xxl-2 {
         padding-top: 2px;
     }
-    .pt-xxl-3{
+
+    .pt-xxl-3 {
         padding-top: 3px;
     }
-    .pt-xxl-4{
+
+    .pt-xxl-4 {
         padding-top: 4px;
     }
-    .pt-xxl-5{
+
+    .pt-xxl-5 {
         padding-top: 5px;
     }
-    .pt-xxl-10{
+
+    .pt-xxl-10 {
         padding-top: 10px;
     }
-    .pt-xxl-15{
+
+    .pt-xxl-15 {
         padding-top: 15px;
     }
-    .pt-xxl-20{
+
+    .pt-xxl-20 {
         padding-top: 20px;
     }
-    .pt-xxl-25{
+
+    .pt-xxl-25 {
         padding-top: 25px;
     }
-    .pt-xxl-30{
+
+    .pt-xxl-30 {
         padding-top: 30px;
     }
-    .pt-xxl-35{
+
+    .pt-xxl-35 {
         padding-top: 35px;
     }
-    .pt-xxl-40{
+
+    .pt-xxl-40 {
         padding-top: 40px;
     }
-    .pt-xxl-45{
+
+    .pt-xxl-45 {
         padding-top: 45px;
     }
-    .pt-xxl-50{
+
+    .pt-xxl-50 {
         padding-top: 50px;
     }
-    .pt-xxl-55{
+
+    .pt-xxl-55 {
         padding-top: 55px;
     }
-    .pt-xxl-60{
+
+    .pt-xxl-60 {
         padding-top: 60px;
     }
-    .pt-xxl-65{
+
+    .pt-xxl-65 {
         padding-top: 65px;
     }
-    .pt-xxl-70{
+
+    .pt-xxl-70 {
         padding-top: 70px;
     }
-    .pt-xxl-75{
+
+    .pt-xxl-75 {
         padding-top: 75px;
     }
-    .pt-xxl-80{
+
+    .pt-xxl-80 {
         padding-top: 80px;
     }
-    .pt-xxl-85{
+
+    .pt-xxl-85 {
         padding-top: 85px;
     }
-    .pt-xxl-90{
+
+    .pt-xxl-90 {
         padding-top: 90px;
     }
-    .pt-xxl-95{
+
+    .pt-xxl-95 {
         padding-top: 95px;
     }
-    .pt-xxl-100{
+
+    .pt-xxl-100 {
         padding-top: 100px;
     }
-    .pb-xxl-0{
+
+    .pb-xxl-0 {
         padding-bottom: 0;
     }
-    .pb-xxl-1{
+
+    .pb-xxl-1 {
         padding-bottom: 1px;
     }
-    .pb-xxl-2{
+
+    .pb-xxl-2 {
         padding-bottom: 2px;
     }
-    .pb-xxl-3{
+
+    .pb-xxl-3 {
         padding-bottom: 3px;
     }
-    .pb-xxl-4{
+
+    .pb-xxl-4 {
         padding-bottom: 4px;
     }
-    .pb-xxl-5{
+
+    .pb-xxl-5 {
         padding-bottom: 5px;
     }
-    .pb-xxl-10{
+
+    .pb-xxl-10 {
         padding-bottom: 10px;
     }
-    .pb-xxl-15{
+
+    .pb-xxl-15 {
         padding-bottom: 15px;
     }
-    .pb-xxl-20{
+
+    .pb-xxl-20 {
         padding-bottom: 20px;
     }
-    .pb-xxl-25{
+
+    .pb-xxl-25 {
         padding-bottom: 25px;
     }
-    .pb-xxl-30{
+
+    .pb-xxl-30 {
         padding-bottom: 30px;
     }
-    .pb-xxl-35{
+
+    .pb-xxl-35 {
         padding-bottom: 35px;
     }
-    .pb-xxl-40{
+
+    .pb-xxl-40 {
         padding-bottom: 40px;
     }
-    .pb-xxl-45{
+
+    .pb-xxl-45 {
         padding-bottom: 45px;
     }
-    .pb-xxl-50{
+
+    .pb-xxl-50 {
         padding-bottom: 50px;
     }
-    .pb-xxl-55{
+
+    .pb-xxl-55 {
         padding-bottom: 55px;
     }
-    .pb-xxl-60{
+
+    .pb-xxl-60 {
         padding-bottom: 60px;
     }
-    .pb-xxl-65{
+
+    .pb-xxl-65 {
         padding-bottom: 65px;
     }
-    .pb-xxl-70{
+
+    .pb-xxl-70 {
         padding-bottom: 70px;
     }
-    .pb-xxl-75{
+
+    .pb-xxl-75 {
         padding-bottom: 75px;
     }
-    .pb-xxl-80{
+
+    .pb-xxl-80 {
         padding-bottom: 80px;
     }
-    .pb-xxl-85{
+
+    .pb-xxl-85 {
         padding-bottom: 85px;
     }
-    .pb-xxl-90{
+
+    .pb-xxl-90 {
         padding-bottom: 90px;
     }
-    .pb-xxl-95{
+
+    .pb-xxl-95 {
         padding-bottom: 95px;
     }
-    .pb-xxl-100{
+
+    .pb-xxl-100 {
         padding-bottom: 100px;
     }
-    .px-xxl-0{
+
+    .px-xxl-0 {
         padding-left: 0;
         padding-right: 0;
     }
-    .px-xxl-1{
+
+    .px-xxl-1 {
         padding-left: 1px;
         padding-right: 1px;
     }
-    .px-xxl-2{
+
+    .px-xxl-2 {
         padding-left: 2px;
         padding-right: 2px;
     }
-    .px-xxl-3{
+
+    .px-xxl-3 {
         padding-left: 3px;
         padding-right: 3px;
     }
-    .px-xxl-4{
+
+    .px-xxl-4 {
         padding-left: 4px;
         padding-right: 4px;
     }
-    .px-xxl-5{
+
+    .px-xxl-5 {
         padding-left: 5px;
         padding-right: 5px;
     }
-    .px-xxl-10{
+
+    .px-xxl-10 {
         padding-left: 10px;
         padding-right: 10px;
     }
-    .px-xxl-15{
+
+    .px-xxl-15 {
         padding-left: 15px;
         padding-right: 15px;
     }
-    .px-xxl-20{
+
+    .px-xxl-20 {
         padding-left: 20px;
         padding-right: 20px;
     }
-    .px-xxl-25{
+
+    .px-xxl-25 {
         padding-left: 25px;
         padding-right: 25px;
     }
-    .px-xxl-30{
+
+    .px-xxl-30 {
         padding-left: 30px;
         padding-right: 30px;
     }
-    .px-xxl-35{
+
+    .px-xxl-35 {
         padding-left: 35px;
         padding-right: 35px;
     }
-    .px-xxl-40{
+
+    .px-xxl-40 {
         padding-left: 40px;
         padding-right: 40px;
     }
-    .px-xxl-45{
+
+    .px-xxl-45 {
         padding-left: 45px;
         padding-right: 45px;
     }
-    .px-xxl-50{
+
+    .px-xxl-50 {
         padding-left: 50px;
         padding-right: 50px;
     }
-    .px-xxl-55{
+
+    .px-xxl-55 {
         padding-left: 55px;
         padding-right: 55px;
     }
-    .px-xxl-60{
+
+    .px-xxl-60 {
         padding-left: 60px;
         padding-right: 60px;
     }
-    .px-xxl-65{
+
+    .px-xxl-65 {
         padding-left: 65px;
         padding-right: 65px;
     }
-    .px-xxl-70{
+
+    .px-xxl-70 {
         padding-left: 70px;
         padding-right: 70px;
     }
-    .px-xxl-75{
+
+    .px-xxl-75 {
         padding-left: 75px;
         padding-right: 75px;
     }
-    .px-xxl-80{
+
+    .px-xxl-80 {
         padding-left: 80px;
         padding-right: 80px;
     }
-    .px-xxl-85{
+
+    .px-xxl-85 {
         padding-left: 85px;
         padding-right: 85px;
     }
-    .px-xxl-90{
+
+    .px-xxl-90 {
         padding-left: 90px;
         padding-right: 90px;
     }
-    .px-xxl-95{
+
+    .px-xxl-95 {
         padding-left: 95px;
         padding-right: 95px;
     }
-    .px-xxl-100{
+
+    .px-xxl-100 {
         padding-left: 100px;
         padding-right: 100px;
     }
-    
-    .py-xxl-0{
+
+    .py-xxl-0 {
         padding-top: 0;
         padding-bottom: 0;
     }
-    .py-xxl-1{
+
+    .py-xxl-1 {
         padding-top: 1px;
         padding-bottom: 1px;
     }
-    .py-xxl-2{
+
+    .py-xxl-2 {
         padding-top: 2px;
         padding-bottom: 2px;
     }
-    .py-xxl-3{
+
+    .py-xxl-3 {
         padding-top: 3px;
         padding-bottom: 3px;
     }
-    .py-xxl-4{
+
+    .py-xxl-4 {
         padding-top: 4px;
         padding-bottom: 4px;
     }
-    .py-xxl-5{
+
+    .py-xxl-5 {
         padding-top: 5px;
         padding-bottom: 5px;
     }
-    .py-xxl-10{
+
+    .py-xxl-10 {
         padding-top: 10px;
         padding-bottom: 10px;
     }
-    .py-xxl-15{
+
+    .py-xxl-15 {
         padding-top: 15px;
         padding-bottom: 15px;
     }
-    .py-xxl-20{
+
+    .py-xxl-20 {
         padding-top: 20px;
         padding-bottom: 20px;
     }
-    .py-xxl-25{
+
+    .py-xxl-25 {
         padding-top: 25px;
         padding-bottom: 25px;
     }
-    .py-xxl-30{
+
+    .py-xxl-30 {
         padding-top: 30px;
         padding-bottom: 30px;
     }
-    .py-xxl-35{
+
+    .py-xxl-35 {
         padding-top: 35px;
         padding-bottom: 35px;
     }
-    .py-xxl-40{
+
+    .py-xxl-40 {
         padding-top: 40px;
         padding-bottom: 40px;
     }
-    .py-xxl-45{
+
+    .py-xxl-45 {
         padding-top: 45px;
         padding-bottom: 45px;
     }
-    .py-xxl-50{
+
+    .py-xxl-50 {
         padding-top: 50px;
         padding-bottom: 50px;
     }
-    .py-xxl-55{
+
+    .py-xxl-55 {
         padding-top: 55px;
         padding-bottom: 55px;
     }
-    .py-xxl-60{
+
+    .py-xxl-60 {
         padding-top: 60px;
         padding-bottom: 60px;
     }
-    .py-xxl-65{
+
+    .py-xxl-65 {
         padding-top: 65px;
         padding-bottom: 65px;
     }
-    .py-xxl-70{
+
+    .py-xxl-70 {
         padding-top: 70px;
         padding-bottom: 70px;
     }
-    .py-xxl-75{
+
+    .py-xxl-75 {
         padding-top: 75px;
         padding-bottom: 75px;
     }
-    .py-xxl-80{
+
+    .py-xxl-80 {
         padding-top: 80px;
         padding-bottom: 80px;
     }
-    .py-xxl-85{
+
+    .py-xxl-85 {
         padding-top: 85px;
         padding-bottom: 85px;
     }
-    .py-xxl-90{
+
+    .py-xxl-90 {
         padding-top: 90px;
         padding-bottom: 90px;
     }
-    .py-xxl-95{
+
+    .py-xxl-95 {
         padding-top: 95px;
         padding-bottom: 95px;
     }
-    .py-xxl-100{
+
+    .py-xxl-100 {
         padding-top: 100px;
         padding-bottom: 100px;
     }
-    
-    
+
+
     /******************* margin ******************/
-    .m-xxl-0{
+    .m-xxl-0 {
         margin: 0;
     }
-    .m-xxl-1{
+
+    .m-xxl-1 {
         margin: 1px;
     }
-    .m-xxl-2{
+
+    .m-xxl-2 {
         margin: 2px;
     }
-    .m-xxl-3{
+
+    .m-xxl-3 {
         margin: 3px;
     }
-    .m-xxl-4{
+
+    .m-xxl-4 {
         margin: 4px;
     }
-    .m-xxl-5{
+
+    .m-xxl-5 {
         margin: 5px;
     }
-    .m-xxl-10{
+
+    .m-xxl-10 {
         margin: 10px;
     }
-    .m-xxl-15{
+
+    .m-xxl-15 {
         margin: 15px;
     }
-    .m-xxl-20{
+
+    .m-xxl-20 {
         margin: 20px;
     }
-    .m-xxl-25{
+
+    .m-xxl-25 {
         margin: 25px;
     }
-    .m-xxl-30{
+
+    .m-xxl-30 {
         margin: 30px;
     }
-    .m-xxl-35{
+
+    .m-xxl-35 {
         margin: 35px;
     }
-    .m-xxl-40{
+
+    .m-xxl-40 {
         margin: 40px;
     }
-    .m-xxl-45{
+
+    .m-xxl-45 {
         margin: 45px;
     }
-    .m-xxl-50{
+
+    .m-xxl-50 {
         margin: 50px;
     }
-    .m-xxl-55{
+
+    .m-xxl-55 {
         margin: 55px;
     }
-    .m-xxl-60{
+
+    .m-xxl-60 {
         margin: 60px;
     }
-    .m-xxl-65{
+
+    .m-xxl-65 {
         margin: 65px;
     }
-    .m-xxl-70{
+
+    .m-xxl-70 {
         margin: 70px;
     }
-    .m-xxl-75{
+
+    .m-xxl-75 {
         margin: 75px;
     }
-    .m-xxl-80{
+
+    .m-xxl-80 {
         margin: 80px;
     }
-    .m-xxl-85{
+
+    .m-xxl-85 {
         margin: 85px;
     }
-    .m-xxl-90{
+
+    .m-xxl-90 {
         margin: 90px;
     }
-    .m-xxl-95{
+
+    .m-xxl-95 {
         margin: 95px;
     }
-    .m-xxl-100{
+
+    .m-xxl-100 {
         margin: 100px;
     }
-    .ms-xxl-0{
+
+    .ms-xxl-0 {
         margin-left: 0;
     }
-    .ms-xxl-1{
+
+    .ms-xxl-1 {
         margin-left: 1px;
     }
-    .ms-xxl-2{
+
+    .ms-xxl-2 {
         margin-left: 2px;
     }
-    .ms-xxl-3{
+
+    .ms-xxl-3 {
         margin-left: 3px;
     }
-    .ms-xxl-4{
+
+    .ms-xxl-4 {
         margin-left: 4px;
     }
-    .ms-xxl-5{
+
+    .ms-xxl-5 {
         margin-left: 5px;
     }
-    .ms-xxl-10{
+
+    .ms-xxl-10 {
         margin-left: 10px;
     }
-    .ms-xxl-15{
+
+    .ms-xxl-15 {
         margin-left: 15px;
     }
-    .ms-xxl-20{
+
+    .ms-xxl-20 {
         margin-left: 20px;
     }
-    .ms-xxl-25{
+
+    .ms-xxl-25 {
         margin-left: 25px;
     }
-    .ms-xxl-30{
+
+    .ms-xxl-30 {
         margin-left: 30px;
     }
-    .ms-xxl-35{
+
+    .ms-xxl-35 {
         margin-left: 35px;
     }
-    .ms-xxl-40{
+
+    .ms-xxl-40 {
         margin-left: 40px;
     }
-    .ms-xxl-45{
+
+    .ms-xxl-45 {
         margin-left: 45px;
     }
-    .ms-xxl-50{
+
+    .ms-xxl-50 {
         margin-left: 50px;
     }
-    .ms-xxl-55{
+
+    .ms-xxl-55 {
         margin-left: 55px;
     }
-    .ms-xxl-60{
+
+    .ms-xxl-60 {
         margin-left: 60px;
     }
-    .ms-xxl-65{
+
+    .ms-xxl-65 {
         margin-left: 65px;
     }
-    .ms-xxl-70{
+
+    .ms-xxl-70 {
         margin-left: 70px;
     }
-    .ms-xxl-75{
+
+    .ms-xxl-75 {
         margin-left: 75px;
     }
-    .ms-xxl-80{
+
+    .ms-xxl-80 {
         margin-left: 80px;
     }
-    .ms-xxl-85{
+
+    .ms-xxl-85 {
         margin-left: 85px;
     }
-    .ms-xxl-90{
+
+    .ms-xxl-90 {
         margin-left: 90px;
     }
-    .ms-xxl-95{
+
+    .ms-xxl-95 {
         margin-left: 95px;
     }
-    .ms-xxl-100{
+
+    .ms-xxl-100 {
         margin-left: 100px;
     }
-    .me-xxl-0{
+
+    .me-xxl-0 {
         margin-right: 0;
     }
-    .me-xxl-1{
+
+    .me-xxl-1 {
         margin-right: 1px;
     }
-    .me-xxl-2{
+
+    .me-xxl-2 {
         margin-right: 2px;
     }
-    .me-xxl-3{
+
+    .me-xxl-3 {
         margin-right: 3px;
     }
-    .me-xxl-4{
+
+    .me-xxl-4 {
         margin-right: 4px;
     }
-    .me-xxl-5{
+
+    .me-xxl-5 {
         margin-right: 5px;
     }
-    .me-xxl-10{
+
+    .me-xxl-10 {
         margin-right: 10px;
     }
-    .me-xxl-15{
+
+    .me-xxl-15 {
         margin-right: 15px;
     }
-    .me-xxl-20{
+
+    .me-xxl-20 {
         margin-right: 20px;
     }
-    .me-xxl-25{
+
+    .me-xxl-25 {
         margin-right: 25px;
     }
-    .me-xxl-30{
+
+    .me-xxl-30 {
         margin-right: 30px;
     }
-    .me-xxl-35{
+
+    .me-xxl-35 {
         margin-right: 35px;
     }
-    .me-xxl-40{
+
+    .me-xxl-40 {
         margin-right: 40px;
     }
-    .me-xxl-45{
+
+    .me-xxl-45 {
         margin-right: 45px;
     }
-    .me-xxl-50{
+
+    .me-xxl-50 {
         margin-right: 50px;
     }
-    .me-xxl-55{
+
+    .me-xxl-55 {
         margin-right: 55px;
     }
-    .me-xxl-60{
+
+    .me-xxl-60 {
         margin-right: 60px;
     }
-    .me-xxl-65{
+
+    .me-xxl-65 {
         margin-right: 65px;
     }
-    .me-xxl-70{
+
+    .me-xxl-70 {
         margin-right: 70px;
     }
-    .me-xxl-75{
+
+    .me-xxl-75 {
         margin-right: 75px;
     }
-    .me-xxl-80{
+
+    .me-xxl-80 {
         margin-right: 80px;
     }
-    .me-xxl-85{
+
+    .me-xxl-85 {
         margin-right: 85px;
     }
-    .me-xxl-90{
+
+    .me-xxl-90 {
         margin-right: 90px;
     }
-    .me-xxl-95{
+
+    .me-xxl-95 {
         margin-right: 95px;
     }
-    .me-xxl-100{
+
+    .me-xxl-100 {
         margin-right: 100px;
     }
-    .mt-xxl-0{
+
+    .mt-xxl-0 {
         margin-top: 0;
     }
-    .mt-xxl-1{
+
+    .mt-xxl-1 {
         margin-top: 1px;
     }
-    .mt-xxl-2{
+
+    .mt-xxl-2 {
         margin-top: 2px;
     }
-    .mt-xxl-3{
+
+    .mt-xxl-3 {
         margin-top: 3px;
     }
-    .mt-xxl-4{
+
+    .mt-xxl-4 {
         margin-top: 4px;
     }
-    .mt-xxl-5{
+
+    .mt-xxl-5 {
         margin-top: 5px;
     }
-    .mt-xxl-10{
+
+    .mt-xxl-10 {
         margin-top: 10px;
     }
-    .mt-xxl-15{
+
+    .mt-xxl-15 {
         margin-top: 15px;
     }
-    .mt-xxl-20{
+
+    .mt-xxl-20 {
         margin-top: 20px;
     }
-    .mt-xxl-25{
+
+    .mt-xxl-25 {
         margin-top: 25px;
     }
-    .mt-xxl-30{
+
+    .mt-xxl-30 {
         margin-top: 30px;
     }
-    .mt-xxl-35{
+
+    .mt-xxl-35 {
         margin-top: 35px;
     }
-    .mt-xxl-40{
+
+    .mt-xxl-40 {
         margin-top: 40px;
     }
-    .mt-xxl-45{
+
+    .mt-xxl-45 {
         margin-top: 45px;
     }
-    .mt-xxl-50{
+
+    .mt-xxl-50 {
         margin-top: 50px;
     }
-    .mt-xxl-55{
+
+    .mt-xxl-55 {
         margin-top: 55px;
     }
-    .mt-xxl-60{
+
+    .mt-xxl-60 {
         margin-top: 60px;
     }
-    .mt-xxl-65{
+
+    .mt-xxl-65 {
         margin-top: 65px;
     }
-    .mt-xxl-70{
+
+    .mt-xxl-70 {
         margin-top: 70px;
     }
-    .mt-xxl-75{
+
+    .mt-xxl-75 {
         margin-top: 75px;
     }
-    .mt-xxl-80{
+
+    .mt-xxl-80 {
         margin-top: 80px;
     }
-    .mt-xxl-85{
+
+    .mt-xxl-85 {
         margin-top: 85px;
     }
-    .mt-xxl-90{
+
+    .mt-xxl-90 {
         margin-top: 90px;
     }
-    .mt-xxl-95{
+
+    .mt-xxl-95 {
         margin-top: 95px;
     }
-    .mt-xxl-100{
+
+    .mt-xxl-100 {
         margin-top: 100px;
     }
-    .mb-xxl-0{
+
+    .mb-xxl-0 {
         margin-bottom: 0;
     }
-    .mb-xxl-1{
+
+    .mb-xxl-1 {
         margin-bottom: 1px;
     }
-    .mb-xxl-2{
+
+    .mb-xxl-2 {
         margin-bottom: 2px;
     }
-    .mb-xxl-3{
+
+    .mb-xxl-3 {
         margin-bottom: 3px;
     }
-    .mb-xxl-4{
+
+    .mb-xxl-4 {
         margin-bottom: 4px;
     }
-    .mb-xxl-5{
+
+    .mb-xxl-5 {
         margin-bottom: 5px;
     }
-    .mb-xxl-10{
+
+    .mb-xxl-10 {
         margin-bottom: 10px;
     }
-    .mb-xxl-15{
+
+    .mb-xxl-15 {
         margin-bottom: 15px;
     }
-    .mb-xxl-20{
+
+    .mb-xxl-20 {
         margin-bottom: 20px;
     }
-    .mb-xxl-25{
+
+    .mb-xxl-25 {
         margin-bottom: 25px;
     }
-    .mb-xxl-30{
+
+    .mb-xxl-30 {
         margin-bottom: 30px;
     }
-    .mb-xxl-35{
+
+    .mb-xxl-35 {
         margin-bottom: 35px;
     }
-    .mb-xxl-40{
+
+    .mb-xxl-40 {
         margin-bottom: 40px;
     }
-    .mb-xxl-45{
+
+    .mb-xxl-45 {
         margin-bottom: 45px;
     }
-    .mb-xxl-50{
+
+    .mb-xxl-50 {
         margin-bottom: 50px;
     }
-    .mb-xxl-55{
+
+    .mb-xxl-55 {
         margin-bottom: 55px;
     }
-    .mb-xxl-60{
+
+    .mb-xxl-60 {
         margin-bottom: 60px;
     }
-    .mb-xxl-65{
+
+    .mb-xxl-65 {
         margin-bottom: 65px;
     }
-    .mb-xxl-70{
+
+    .mb-xxl-70 {
         margin-bottom: 70px;
     }
-    .mb-xxl-75{
+
+    .mb-xxl-75 {
         margin-bottom: 75px;
     }
-    .mb-xxl-80{
+
+    .mb-xxl-80 {
         margin-bottom: 80px;
     }
-    .mb-xxl-85{
+
+    .mb-xxl-85 {
         margin-bottom: 85px;
     }
-    .mb-xxl-90{
+
+    .mb-xxl-90 {
         margin-bottom: 90px;
     }
-    .mb-xxl-95{
+
+    .mb-xxl-95 {
         margin-bottom: 95px;
     }
-    .mb-xxl-100{
+
+    .mb-xxl-100 {
         margin-bottom: 100px;
     }
-    
-    .mx-xxl-0{
+
+    .mx-xxl-0 {
         margin-left: 0;
         margin-right: 0;
     }
-    .mx-xxl-1{
+
+    .mx-xxl-1 {
         margin-left: 1px;
         margin-right: 1px;
     }
-    .mx-xxl-2{
+
+    .mx-xxl-2 {
         margin-left: 2px;
         margin-right: 2px;
     }
-    .mx-xxl-3{
+
+    .mx-xxl-3 {
         margin-left: 3px;
         margin-right: 3px;
     }
-    .mx-xxl-4{
+
+    .mx-xxl-4 {
         margin-left: 4px;
         margin-right: 4px;
     }
-    .mx-xxl-5{
+
+    .mx-xxl-5 {
         margin-left: 5px;
         margin-right: 5px;
     }
-    .mx-xxl-10{
+
+    .mx-xxl-10 {
         margin-left: 10px;
         margin-right: 10px;
     }
-    .mx-xxl-15{
+
+    .mx-xxl-15 {
         margin-left: 15px;
         margin-right: 15px;
     }
-    .mx-xxl-20{
+
+    .mx-xxl-20 {
         margin-left: 20px;
         margin-right: 20px;
     }
-    .mx-xxl-25{
+
+    .mx-xxl-25 {
         margin-left: 25px;
         margin-right: 25px;
     }
-    .mx-xxl-30{
+
+    .mx-xxl-30 {
         margin-left: 30px;
         margin-right: 30px;
     }
-    .mx-xxl-35{
+
+    .mx-xxl-35 {
         margin-left: 35px;
         margin-right: 35px;
     }
-    .mx-xxl-40{
+
+    .mx-xxl-40 {
         margin-left: 40px;
         margin-right: 40px;
     }
-    .mx-xxl-45{
+
+    .mx-xxl-45 {
         margin-left: 45px;
         margin-right: 45px;
     }
-    .mx-xxl-50{
+
+    .mx-xxl-50 {
         margin-left: 50px;
         margin-right: 50px;
     }
-    .mx-xxl-55{
+
+    .mx-xxl-55 {
         margin-left: 55px;
         margin-right: 55px;
     }
-    .mx-xxl-60{
+
+    .mx-xxl-60 {
         margin-left: 60px;
         margin-right: 60px;
     }
-    .mx-xxl-65{
+
+    .mx-xxl-65 {
         margin-left: 65px;
         margin-right: 65px;
     }
-    .mx-xxl-70{
+
+    .mx-xxl-70 {
         margin-left: 70px;
         margin-right: 70px;
     }
-    .mx-xxl-75{
+
+    .mx-xxl-75 {
         margin-left: 75px;
         margin-right: 75px;
     }
-    .mx-xxl-80{
+
+    .mx-xxl-80 {
         margin-left: 80px;
         margin-right: 80px;
     }
-    .mx-xxl-85{
+
+    .mx-xxl-85 {
         margin-left: 85px;
         margin-right: 85px;
     }
-    .mx-xxl-90{
+
+    .mx-xxl-90 {
         margin-left: 90px;
         margin-right: 90px;
     }
-    .mx-xxl-95{
+
+    .mx-xxl-95 {
         margin-left: 95px;
         margin-right: 95px;
     }
-    .mx-xxl-100{
+
+    .mx-xxl-100 {
         margin-left: 100px;
         margin-right: 100px;
     }
-    
-    .my-xxl-0{
+
+    .my-xxl-0 {
         margin-top: 0;
         margin-bottom: 0;
     }
-    .my-xxl-1{
+
+    .my-xxl-1 {
         margin-top: 1px;
         margin-bottom: 1px;
     }
-    .my-xxl-2{
+
+    .my-xxl-2 {
         margin-top: 2px;
         margin-bottom: 2px;
     }
-    .my-xxl-3{
+
+    .my-xxl-3 {
         margin-top: 3px;
         margin-bottom: 3px;
     }
-    .my-xxl-4{
+
+    .my-xxl-4 {
         margin-top: 4px;
         margin-bottom: 4px;
     }
-    .my-xxl-5{
+
+    .my-xxl-5 {
         margin-top: 5px;
         margin-bottom: 5px;
     }
-    .my-xxl-10{
+
+    .my-xxl-10 {
         margin-top: 10px;
         margin-bottom: 10px;
     }
-    .my-xxl-15{
+
+    .my-xxl-15 {
         margin-top: 15px;
         margin-bottom: 15px;
     }
-    .my-xxl-20{
+
+    .my-xxl-20 {
         margin-top: 20px;
         margin-bottom: 20px;
     }
-    .my-xxl-25{
+
+    .my-xxl-25 {
         margin-top: 25px;
         margin-bottom: 25px;
     }
-    .my-xxl-30{
+
+    .my-xxl-30 {
         margin-top: 30px;
         margin-bottom: 30px;
     }
-    .my-xxl-35{
+
+    .my-xxl-35 {
         margin-top: 35px;
         margin-bottom: 35px;
     }
-    .my-xxl-40{
+
+    .my-xxl-40 {
         margin-top: 40px;
         margin-bottom: 40px;
     }
-    .my-xxl-45{
+
+    .my-xxl-45 {
         margin-top: 45px;
         margin-bottom: 45px;
     }
-    .my-xxl-50{
+
+    .my-xxl-50 {
         margin-top: 50px;
         margin-bottom: 50px;
     }
-    .my-xxl-55{
+
+    .my-xxl-55 {
         margin-top: 55px;
         margin-bottom: 55px;
     }
-    .my-xxl-60{
+
+    .my-xxl-60 {
         margin-top: 60px;
         margin-bottom: 60px;
     }
-    .my-xxl-65{
+
+    .my-xxl-65 {
         margin-top: 65px;
         margin-bottom: 65px;
     }
-    .my-xxl-70{
+
+    .my-xxl-70 {
         margin-top: 70px;
         margin-bottom: 70px;
     }
-    .my-xxl-75{
+
+    .my-xxl-75 {
         margin-top: 75px;
         margin-bottom: 75px;
     }
-    .my-xxl-80{
+
+    .my-xxl-80 {
         margin-top: 80px;
         margin-bottom: 80px;
     }
-    .my-xxl-85{
+
+    .my-xxl-85 {
         margin-top: 85px;
         margin-bottom: 85px;
     }
-    .my-xxl-90{
+
+    .my-xxl-90 {
         margin-top: 90px;
         margin-bottom: 90px;
     }
-    .my-xxl-95{
+
+    .my-xxl-95 {
         margin-top: 95px;
         margin-bottom: 95px;
     }
-    .my-xxl-100{
+
+    .my-xxl-100 {
         margin-top: 100px;
         margin-bottom: 100px;
     }
-    
-    }
-    .fw-100{
-        font-weight: 100;
-    }
-    .fw-200{
-        font-weight: 200;
-    }
-    .fw-300{
-        font-weight: 300;
-    }
-    .fw-400{
-        font-weight: 400;
-    }
-    .fw-500{
-        font-weight: 500;
-    }
-    .fw-600{
-        font-weight: 600;
-    }
-    .fw-700{
-        font-weight: 700;
-    }
-    .fw-800{
-        font-weight: 800;
-    }
-    .fw-900{
-        font-weight: 900;
-    }
-    .f-1 {
+
+}
+
+.fw-100 {
+    font-weight: 100;
+}
+
+.fw-200 {
+    font-weight: 200;
+}
+
+.fw-300 {
+    font-weight: 300;
+}
+
+.fw-400 {
+    font-weight: 400;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+
+.fw-800 {
+    font-weight: 800;
+}
+
+.fw-900 {
+    font-weight: 900;
+}
+
+.f-1 {
+    font-size: 1px;
+}
+
+.f-2 {
+    font-size: 2px;
+}
+
+.f-3 {
+    font-size: 3px;
+}
+
+.f-4 {
+    font-size: 4px;
+}
+
+.f-5 {
+    font-size: 5px;
+}
+
+.f-6 {
+    font-size: 6px;
+}
+
+.f-7 {
+    font-size: 7px;
+}
+
+.f-8 {
+    font-size: 8px;
+}
+
+.f-9 {
+    font-size: 9px;
+}
+
+.f-10 {
+    font-size: 10px;
+}
+
+.f-11 {
+    font-size: 11px;
+}
+
+.f-12 {
+    font-size: 12px;
+}
+
+.f-13 {
+    font-size: 13px;
+}
+
+.f-14 {
+    font-size: 14px;
+}
+
+.f-15 {
+    font-size: 15px;
+}
+
+.f-16 {
+    font-size: 16px;
+}
+
+.f-17 {
+    font-size: 17px;
+}
+
+.f-18 {
+    font-size: 18px;
+}
+
+.f-19 {
+    font-size: 19px;
+}
+
+.f-20 {
+    font-size: 20px;
+}
+
+.f-21 {
+    font-size: 21px;
+}
+
+.f-22 {
+    font-size: 22px;
+}
+
+.f-23 {
+    font-size: 23px;
+}
+
+.f-24 {
+    font-size: 24px;
+}
+
+.f-25 {
+    font-size: 25px;
+}
+
+.f-26 {
+    font-size: 26px;
+}
+
+.f-27 {
+    font-size: 27px;
+}
+
+.f-28 {
+    font-size: 28px;
+}
+
+.f-29 {
+    font-size: 29px;
+}
+
+.f-30 {
+    font-size: 30px;
+}
+
+.f-31 {
+    font-size: 31px;
+}
+
+.f-32 {
+    font-size: 32px;
+}
+
+.f-33 {
+    font-size: 33px;
+}
+
+.f-34 {
+    font-size: 34px;
+}
+
+.f-35 {
+    font-size: 35px;
+}
+
+.f-36 {
+    font-size: 36px;
+}
+
+.f-37 {
+    font-size: 37px;
+}
+
+.f-38 {
+    font-size: 38px;
+}
+
+.f-39 {
+    font-size: 39px;
+}
+
+.f-40 {
+    font-size: 40px;
+}
+
+.f-41 {
+    font-size: 41px;
+}
+
+.f-42 {
+    font-size: 42px;
+}
+
+.f-43 {
+    font-size: 43px;
+}
+
+.f-44 {
+    font-size: 44px;
+}
+
+.f-45 {
+    font-size: 45px;
+}
+
+.f-46 {
+    font-size: 46px;
+}
+
+.f-47 {
+    font-size: 47px;
+}
+
+.f-48 {
+    font-size: 48px;
+}
+
+.f-49 {
+    font-size: 49px;
+}
+
+.f-50 {
+    font-size: 50px;
+}
+
+.f-51 {
+    font-size: 52px;
+}
+
+.f-52 {
+    font-size: 52px;
+}
+
+.f-53 {
+    font-size: 53px;
+}
+
+.f-54 {
+    font-size: 54px;
+}
+
+.f-55 {
+    font-size: 55px;
+}
+
+.f-56 {
+    font-size: 56px;
+}
+
+.f-57 {
+    font-size: 57px;
+}
+
+.f-58 {
+    font-size: 58px;
+}
+
+.f-59 {
+    font-size: 59px;
+}
+
+.f-60 {
+    font-size: 60px;
+}
+
+.f-61 {
+    font-size: 61px;
+}
+
+.f-62 {
+    font-size: 62px;
+}
+
+.f-63 {
+    font-size: 63px;
+}
+
+.f-64 {
+    font-size: 64px;
+}
+
+.f-65 {
+    font-size: 65px;
+}
+
+.f-66 {
+    font-size: 66px;
+}
+
+.f-67 {
+    font-size: 67px;
+}
+
+.f-68 {
+    font-size: 68px;
+}
+
+.f-69 {
+    font-size: 69px;
+}
+
+.f-70 {
+    font-size: 70px;
+}
+
+.f-71 {
+    font-size: 71px;
+}
+
+.f-72 {
+    font-size: 72px;
+}
+
+.f-73 {
+    font-size: 73px;
+}
+
+.f-74 {
+    font-size: 74px;
+}
+
+.f-75 {
+    font-size: 75px;
+}
+
+.f-76 {
+    font-size: 76px;
+}
+
+.f-77 {
+    font-size: 77px;
+}
+
+.f-78 {
+    font-size: 78px;
+}
+
+.f-79 {
+    font-size: 79px;
+}
+
+.f-80 {
+    font-size: 80px;
+}
+
+.f-81 {
+    font-size: 81px;
+}
+
+.f-82 {
+    font-size: 82px;
+}
+
+.f-83 {
+    font-size: 83px;
+}
+
+.f-84 {
+    font-size: 84px;
+}
+
+.f-85 {
+    font-size: 85px;
+}
+
+.f-86 {
+    font-size: 86px;
+}
+
+.f-87 {
+    font-size: 87px;
+}
+
+.f-88 {
+    font-size: 88px;
+}
+
+.f-89 {
+    font-size: 89px;
+}
+
+.f-90 {
+    font-size: 90px;
+}
+
+.f-91 {
+    font-size: 91px;
+}
+
+.f-92 {
+    font-size: 92px;
+}
+
+.f-93 {
+    font-size: 93px;
+}
+
+.f-94 {
+    font-size: 94px;
+}
+
+.f-95 {
+    font-size: 95px;
+}
+
+.f-96 {
+    font-size: 96px;
+}
+
+.f-97 {
+    font-size: 97px;
+}
+
+.f-98 {
+    font-size: 98px;
+}
+
+.f-99 {
+    font-size: 99px;
+}
+
+.f-100 {
+    font-size: 100px;
+}
+
+@media (min-width: 576px) {
+    .f-sm-1 {
         font-size: 1px;
     }
-    
-    .f-2 {
+
+    .f-sm-2 {
         font-size: 2px;
     }
-    
-    .f-3 {
+
+    .f-sm-3 {
         font-size: 3px;
     }
-    
-    .f-4 {
+
+    .f-sm-4 {
         font-size: 4px;
     }
-    
-    .f-5 {
+
+    .f-sm-5 {
         font-size: 5px;
     }
-    
-    .f-6 {
+
+    .f-sm-6 {
         font-size: 6px;
     }
-    
-    .f-7 {
+
+    .f-sm-7 {
         font-size: 7px;
     }
-    
-    .f-8 {
+
+    .f-sm-8 {
         font-size: 8px;
     }
-    
-    .f-9 {
+
+    .f-sm-9 {
         font-size: 9px;
     }
-    
-    .f-10 {
+
+    .f-sm-10 {
         font-size: 10px;
     }
-    
-    .f-11 {
+
+    .f-sm-11 {
         font-size: 11px;
     }
-    
-    .f-12 {
+
+    .f-sm-12 {
         font-size: 12px;
     }
-    
-    .f-13 {
+
+    .f-sm-13 {
         font-size: 13px;
     }
-    
-    .f-14 {
+
+    .f-sm-14 {
         font-size: 14px;
     }
-    
-    .f-15 {
+
+    .f-sm-15 {
         font-size: 15px;
     }
-    
-    .f-16 {
+
+    .f-sm-16 {
         font-size: 16px;
     }
-    
-    .f-17 {
+
+    .f-sm-17 {
         font-size: 17px;
     }
-    
-    .f-18 {
+
+    .f-sm-18 {
         font-size: 18px;
     }
-    
-    .f-19 {
+
+    .f-sm-19 {
         font-size: 19px;
     }
-    
-    .f-20 {
+
+    .f-sm-20 {
         font-size: 20px;
     }
-    
-    .f-21 {
+
+    .f-sm-21 {
         font-size: 21px;
     }
-    
-    .f-22 {
+
+    .f-sm-22 {
         font-size: 22px;
     }
-    
-    .f-23 {
+
+    .f-sm-23 {
         font-size: 23px;
     }
-    
-    .f-24 {
+
+    .f-sm-24 {
         font-size: 24px;
     }
-    
-    .f-25 {
+
+    .f-sm-25 {
         font-size: 25px;
     }
-    
-    .f-26 {
+
+    .f-sm-26 {
         font-size: 26px;
     }
-    
-    .f-27 {
+
+    .f-sm-27 {
         font-size: 27px;
     }
-    
-    .f-28 {
+
+    .f-sm-28 {
         font-size: 28px;
     }
-    
-    .f-29 {
+
+    .f-sm-29 {
         font-size: 29px;
     }
-    
-    .f-30 {
+
+    .f-sm-30 {
         font-size: 30px;
     }
-    
-    .f-31 {
+
+    .f-sm-31 {
         font-size: 31px;
     }
-    
-    .f-32 {
+
+    .f-sm-32 {
         font-size: 32px;
     }
-    
-    .f-33 {
+
+    .f-sm-33 {
         font-size: 33px;
     }
-    
-    .f-34 {
+
+    .f-sm-34 {
         font-size: 34px;
     }
-    
-    .f-35 {
+
+    .f-sm-35 {
         font-size: 35px;
     }
-    
-    .f-36 {
+
+    .f-sm-36 {
         font-size: 36px;
     }
-    
-    .f-37 {
+
+    .f-sm-37 {
         font-size: 37px;
     }
-    
-    .f-38 {
+
+    .f-sm-38 {
         font-size: 38px;
     }
-    
-    .f-39 {
+
+    .f-sm-39 {
         font-size: 39px;
     }
-    
-    .f-40 {
+
+    .f-sm-40 {
         font-size: 40px;
     }
-    
-    .f-41 {
+
+    .f-sm-41 {
         font-size: 41px;
     }
-    
-    .f-42 {
+
+    .f-sm-42 {
         font-size: 42px;
     }
-    
-    .f-43 {
+
+    .f-sm-43 {
         font-size: 43px;
     }
-    
-    .f-44 {
+
+    .f-sm-44 {
         font-size: 44px;
     }
-    
-    .f-45 {
+
+    .f-sm-45 {
         font-size: 45px;
     }
-    
-    .f-46 {
+
+    .f-sm-46 {
         font-size: 46px;
     }
-    
-    .f-47 {
+
+    .f-sm-47 {
         font-size: 47px;
     }
-    
-    .f-48 {
+
+    .f-sm-48 {
         font-size: 48px;
     }
-    
-    .f-49 {
+
+    .f-sm-49 {
         font-size: 49px;
     }
-    
-    .f-50 {
+
+    .f-sm-50 {
         font-size: 50px;
     }
-    
-    .f-51 {
+
+    .f-sm-51 {
         font-size: 52px;
     }
-    
-    .f-52 {
+
+    .f-sm-52 {
         font-size: 52px;
     }
-    
-    .f-53 {
+
+    .f-sm-53 {
         font-size: 53px;
     }
-    
-    .f-54 {
+
+    .f-sm-54 {
         font-size: 54px;
     }
-    
-    .f-55 {
+
+    .f-sm-55 {
         font-size: 55px;
     }
-    
-    .f-56 {
+
+    .f-sm-56 {
         font-size: 56px;
     }
-    
-    .f-57 {
+
+    .f-sm-57 {
         font-size: 57px;
     }
-    
-    .f-58 {
+
+    .f-sm-58 {
         font-size: 58px;
     }
-    
-    .f-59 {
+
+    .f-sm-59 {
         font-size: 59px;
     }
-    
-    .f-60 {
+
+    .f-sm-60 {
         font-size: 60px;
     }
-    
-    .f-61 {
+
+    .f-sm-61 {
         font-size: 61px;
     }
-    
-    .f-62 {
+
+    .f-sm-62 {
         font-size: 62px;
     }
-    
-    .f-63 {
+
+    .f-sm-63 {
         font-size: 63px;
     }
-    
-    .f-64 {
+
+    .f-sm-64 {
         font-size: 64px;
     }
-    
-    .f-65 {
+
+    .f-sm-65 {
         font-size: 65px;
     }
-    
-    .f-66 {
+
+    .f-sm-66 {
         font-size: 66px;
     }
-    
-    .f-67 {
+
+    .f-sm-67 {
         font-size: 67px;
     }
-    
-    .f-68 {
+
+    .f-sm-68 {
         font-size: 68px;
     }
-    
-    .f-69 {
+
+    .f-sm-69 {
         font-size: 69px;
     }
-    
-    .f-70 {
+
+    .f-sm-70 {
         font-size: 70px;
     }
-    
-    .f-71 {
+
+    .f-sm-71 {
         font-size: 71px;
     }
-    
-    .f-72 {
+
+    .f-sm-72 {
         font-size: 72px;
     }
-    
-    .f-73 {
+
+    .f-sm-73 {
         font-size: 73px;
     }
-    
-    .f-74 {
+
+    .f-sm-74 {
         font-size: 74px;
     }
-    
-    .f-75 {
+
+    .f-sm-75 {
         font-size: 75px;
     }
-    
-    .f-76 {
+
+    .f-sm-76 {
         font-size: 76px;
     }
-    
-    .f-77 {
+
+    .f-sm-77 {
         font-size: 77px;
     }
-    
-    .f-78 {
+
+    .f-sm-78 {
         font-size: 78px;
     }
-    
-    .f-79 {
+
+    .f-sm-79 {
         font-size: 79px;
     }
-    
-    .f-80 {
+
+    .f-sm-80 {
         font-size: 80px;
     }
-    
-    .f-81 {
+
+    .f-sm-81 {
         font-size: 81px;
     }
-    
-    .f-82 {
+
+    .f-sm-82 {
         font-size: 82px;
     }
-    
-    .f-83 {
+
+    .f-sm-83 {
         font-size: 83px;
     }
-    
-    .f-84 {
+
+    .f-sm-84 {
         font-size: 84px;
     }
-    
-    .f-85 {
+
+    .f-sm-85 {
         font-size: 85px;
     }
-    
-    .f-86 {
+
+    .f-sm-86 {
         font-size: 86px;
     }
-    
-    .f-87 {
+
+    .f-sm-87 {
         font-size: 87px;
     }
-    
-    .f-88 {
+
+    .f-sm-88 {
         font-size: 88px;
     }
-    
-    .f-89 {
+
+    .f-sm-89 {
         font-size: 89px;
     }
-    
-    .f-90 {
+
+    .f-sm-90 {
         font-size: 90px;
     }
-    
-    .f-91 {
+
+    .f-sm-91 {
         font-size: 91px;
     }
-    
-    .f-92 {
+
+    .f-sm-92 {
         font-size: 92px;
     }
-    
-    .f-93 {
+
+    .f-sm-93 {
         font-size: 93px;
     }
-    
-    .f-94 {
+
+    .f-sm-94 {
         font-size: 94px;
     }
-    
-    .f-95 {
+
+    .f-sm-95 {
         font-size: 95px;
     }
-    
-    .f-96 {
+
+    .f-sm-96 {
         font-size: 96px;
     }
-    
-    .f-97 {
+
+    .f-sm-97 {
         font-size: 97px;
     }
-    
-    .f-98 {
+
+    .f-sm-98 {
         font-size: 98px;
     }
-    
-    .f-99 {
+
+    .f-sm-99 {
         font-size: 99px;
     }
-    
-    .f-100 {
+
+    .f-sm-100 {
         font-size: 100px;
     }
-    
-    @media (min-width: 576px) {
-        .f-sm-1 {
-            font-size: 1px;
-        }
-    
-        .f-sm-2 {
-            font-size: 2px;
-        }
-    
-        .f-sm-3 {
-            font-size: 3px;
-        }
-    
-        .f-sm-4 {
-            font-size: 4px;
-        }
-    
-        .f-sm-5 {
-            font-size: 5px;
-        }
-    
-        .f-sm-6 {
-            font-size: 6px;
-        }
-    
-        .f-sm-7 {
-            font-size: 7px;
-        }
-    
-        .f-sm-8 {
-            font-size: 8px;
-        }
-    
-        .f-sm-9 {
-            font-size: 9px;
-        }
-    
-        .f-sm-10 {
-            font-size: 10px;
-        }
-    
-        .f-sm-11 {
-            font-size: 11px;
-        }
-    
-        .f-sm-12 {
-            font-size: 12px;
-        }
-    
-        .f-sm-13 {
-            font-size: 13px;
-        }
-    
-        .f-sm-14 {
-            font-size: 14px;
-        }
-    
-        .f-sm-15 {
-            font-size: 15px;
-        }
-    
-        .f-sm-16 {
-            font-size: 16px;
-        }
-    
-        .f-sm-17 {
-            font-size: 17px;
-        }
-    
-        .f-sm-18 {
-            font-size: 18px;
-        }
-    
-        .f-sm-19 {
-            font-size: 19px;
-        }
-    
-        .f-sm-20 {
-            font-size: 20px;
-        }
-    
-        .f-sm-21 {
-            font-size: 21px;
-        }
-    
-        .f-sm-22 {
-            font-size: 22px;
-        }
-    
-        .f-sm-23 {
-            font-size: 23px;
-        }
-    
-        .f-sm-24 {
-            font-size: 24px;
-        }
-    
-        .f-sm-25 {
-            font-size: 25px;
-        }
-    
-        .f-sm-26 {
-            font-size: 26px;
-        }
-    
-        .f-sm-27 {
-            font-size: 27px;
-        }
-    
-        .f-sm-28 {
-            font-size: 28px;
-        }
-    
-        .f-sm-29 {
-            font-size: 29px;
-        }
-    
-        .f-sm-30 {
-            font-size: 30px;
-        }
-    
-        .f-sm-31 {
-            font-size: 31px;
-        }
-    
-        .f-sm-32 {
-            font-size: 32px;
-        }
-    
-        .f-sm-33 {
-            font-size: 33px;
-        }
-    
-        .f-sm-34 {
-            font-size: 34px;
-        }
-    
-        .f-sm-35 {
-            font-size: 35px;
-        }
-    
-        .f-sm-36 {
-            font-size: 36px;
-        }
-    
-        .f-sm-37 {
-            font-size: 37px;
-        }
-    
-        .f-sm-38 {
-            font-size: 38px;
-        }
-    
-        .f-sm-39 {
-            font-size: 39px;
-        }
-    
-        .f-sm-40 {
-            font-size: 40px;
-        }
-    
-        .f-sm-41 {
-            font-size: 41px;
-        }
-    
-        .f-sm-42 {
-            font-size: 42px;
-        }
-    
-        .f-sm-43 {
-            font-size: 43px;
-        }
-    
-        .f-sm-44 {
-            font-size: 44px;
-        }
-    
-        .f-sm-45 {
-            font-size: 45px;
-        }
-    
-        .f-sm-46 {
-            font-size: 46px;
-        }
-    
-        .f-sm-47 {
-            font-size: 47px;
-        }
-    
-        .f-sm-48 {
-            font-size: 48px;
-        }
-    
-        .f-sm-49 {
-            font-size: 49px;
-        }
-    
-        .f-sm-50 {
-            font-size: 50px;
-        }
-    
-        .f-sm-51 {
-            font-size: 52px;
-        }
-    
-        .f-sm-52 {
-            font-size: 52px;
-        }
-    
-        .f-sm-53 {
-            font-size: 53px;
-        }
-    
-        .f-sm-54 {
-            font-size: 54px;
-        }
-    
-        .f-sm-55 {
-            font-size: 55px;
-        }
-    
-        .f-sm-56 {
-            font-size: 56px;
-        }
-    
-        .f-sm-57 {
-            font-size: 57px;
-        }
-    
-        .f-sm-58 {
-            font-size: 58px;
-        }
-    
-        .f-sm-59 {
-            font-size: 59px;
-        }
-    
-        .f-sm-60 {
-            font-size: 60px;
-        }
-    
-        .f-sm-61 {
-            font-size: 61px;
-        }
-    
-        .f-sm-62 {
-            font-size: 62px;
-        }
-    
-        .f-sm-63 {
-            font-size: 63px;
-        }
-    
-        .f-sm-64 {
-            font-size: 64px;
-        }
-    
-        .f-sm-65 {
-            font-size: 65px;
-        }
-    
-        .f-sm-66 {
-            font-size: 66px;
-        }
-    
-        .f-sm-67 {
-            font-size: 67px;
-        }
-    
-        .f-sm-68 {
-            font-size: 68px;
-        }
-    
-        .f-sm-69 {
-            font-size: 69px;
-        }
-    
-        .f-sm-70 {
-            font-size: 70px;
-        }
-    
-        .f-sm-71 {
-            font-size: 71px;
-        }
-    
-        .f-sm-72 {
-            font-size: 72px;
-        }
-    
-        .f-sm-73 {
-            font-size: 73px;
-        }
-    
-        .f-sm-74 {
-            font-size: 74px;
-        }
-    
-        .f-sm-75 {
-            font-size: 75px;
-        }
-    
-        .f-sm-76 {
-            font-size: 76px;
-        }
-    
-        .f-sm-77 {
-            font-size: 77px;
-        }
-    
-        .f-sm-78 {
-            font-size: 78px;
-        }
-    
-        .f-sm-79 {
-            font-size: 79px;
-        }
-    
-        .f-sm-80 {
-            font-size: 80px;
-        }
-    
-        .f-sm-81 {
-            font-size: 81px;
-        }
-    
-        .f-sm-82 {
-            font-size: 82px;
-        }
-    
-        .f-sm-83 {
-            font-size: 83px;
-        }
-    
-        .f-sm-84 {
-            font-size: 84px;
-        }
-    
-        .f-sm-85 {
-            font-size: 85px;
-        }
-    
-        .f-sm-86 {
-            font-size: 86px;
-        }
-    
-        .f-sm-87 {
-            font-size: 87px;
-        }
-    
-        .f-sm-88 {
-            font-size: 88px;
-        }
-    
-        .f-sm-89 {
-            font-size: 89px;
-        }
-    
-        .f-sm-90 {
-            font-size: 90px;
-        }
-    
-        .f-sm-91 {
-            font-size: 91px;
-        }
-    
-        .f-sm-92 {
-            font-size: 92px;
-        }
-    
-        .f-sm-93 {
-            font-size: 93px;
-        }
-    
-        .f-sm-94 {
-            font-size: 94px;
-        }
-    
-        .f-sm-95 {
-            font-size: 95px;
-        }
-    
-        .f-sm-96 {
-            font-size: 96px;
-        }
-    
-        .f-sm-97 {
-            font-size: 97px;
-        }
-    
-        .f-sm-98 {
-            font-size: 98px;
-        }
-    
-        .f-sm-99 {
-            font-size: 99px;
-        }
-    
-        .f-sm-100 {
-            font-size: 100px;
-        }
+}
+
+@media (min-width: 768px) {
+    .f-md-1 {
+        font-size: 1px;
     }
-    
-    @media (min-width: 768px) {
-        .f-md-1 {
-            font-size: 1px;
-        }
-    
-        .f-md-2 {
-            font-size: 2px;
-        }
-    
-        .f-md-3 {
-            font-size: 3px;
-        }
-    
-        .f-md-4 {
-            font-size: 4px;
-        }
-    
-        .f-md-5 {
-            font-size: 5px;
-        }
-    
-        .f-md-6 {
-            font-size: 6px;
-        }
-    
-        .f-md-7 {
-            font-size: 7px;
-        }
-    
-        .f-md-8 {
-            font-size: 8px;
-        }
-    
-        .f-md-9 {
-            font-size: 9px;
-        }
-    
-        .f-md-10 {
-            font-size: 10px;
-        }
-    
-        .f-md-11 {
-            font-size: 11px;
-        }
-    
-        .f-md-12 {
-            font-size: 12px;
-        }
-    
-        .f-md-13 {
-            font-size: 13px;
-        }
-    
-        .f-md-14 {
-            font-size: 14px;
-        }
-    
-        .f-md-15 {
-            font-size: 15px;
-        }
-    
-        .f-md-16 {
-            font-size: 16px;
-        }
-    
-        .f-md-17 {
-            font-size: 17px;
-        }
-    
-        .f-md-18 {
-            font-size: 18px;
-        }
-    
-        .f-md-19 {
-            font-size: 19px;
-        }
-    
-        .f-md-20 {
-            font-size: 20px;
-        }
-    
-        .f-md-21 {
-            font-size: 21px;
-        }
-    
-        .f-md-22 {
-            font-size: 22px;
-        }
-    
-        .f-md-23 {
-            font-size: 23px;
-        }
-    
-        .f-md-24 {
-            font-size: 24px;
-        }
-    
-        .f-md-25 {
-            font-size: 25px;
-        }
-    
-        .f-md-26 {
-            font-size: 26px;
-        }
-    
-        .f-md-27 {
-            font-size: 27px;
-        }
-    
-        .f-md-28 {
-            font-size: 28px;
-        }
-    
-        .f-md-29 {
-            font-size: 29px;
-        }
-    
-        .f-md-30 {
-            font-size: 30px;
-        }
-    
-        .f-md-31 {
-            font-size: 31px;
-        }
-    
-        .f-md-32 {
-            font-size: 32px;
-        }
-    
-        .f-md-33 {
-            font-size: 33px;
-        }
-    
-        .f-md-34 {
-            font-size: 34px;
-        }
-    
-        .f-md-35 {
-            font-size: 35px;
-        }
-    
-        .f-md-36 {
-            font-size: 36px;
-        }
-    
-        .f-md-37 {
-            font-size: 37px;
-        }
-    
-        .f-md-38 {
-            font-size: 38px;
-        }
-    
-        .f-md-39 {
-            font-size: 39px;
-        }
-    
-        .f-md-40 {
-            font-size: 40px;
-        }
-    
-        .f-md-41 {
-            font-size: 41px;
-        }
-    
-        .f-md-42 {
-            font-size: 42px;
-        }
-    
-        .f-md-43 {
-            font-size: 43px;
-        }
-    
-        .f-md-44 {
-            font-size: 44px;
-        }
-    
-        .f-md-45 {
-            font-size: 45px;
-        }
-    
-        .f-md-46 {
-            font-size: 46px;
-        }
-    
-        .f-md-47 {
-            font-size: 47px;
-        }
-    
-        .f-md-48 {
-            font-size: 48px;
-        }
-    
-        .f-md-49 {
-            font-size: 49px;
-        }
-    
-        .f-md-50 {
-            font-size: 50px;
-        }
-    
-        .f-md-51 {
-            font-size: 52px;
-        }
-    
-        .f-md-52 {
-            font-size: 52px;
-        }
-    
-        .f-md-53 {
-            font-size: 53px;
-        }
-    
-        .f-md-54 {
-            font-size: 54px;
-        }
-    
-        .f-md-55 {
-            font-size: 55px;
-        }
-    
-        .f-md-56 {
-            font-size: 56px;
-        }
-    
-        .f-md-57 {
-            font-size: 57px;
-        }
-    
-        .f-md-58 {
-            font-size: 58px;
-        }
-    
-        .f-md-59 {
-            font-size: 59px;
-        }
-    
-        .f-md-60 {
-            font-size: 60px;
-        }
-    
-        .f-md-61 {
-            font-size: 61px;
-        }
-    
-        .f-md-62 {
-            font-size: 62px;
-        }
-    
-        .f-md-63 {
-            font-size: 63px;
-        }
-    
-        .f-md-64 {
-            font-size: 64px;
-        }
-    
-        .f-md-65 {
-            font-size: 65px;
-        }
-    
-        .f-md-66 {
-            font-size: 66px;
-        }
-    
-        .f-md-67 {
-            font-size: 67px;
-        }
-    
-        .f-md-68 {
-            font-size: 68px;
-        }
-    
-        .f-md-69 {
-            font-size: 69px;
-        }
-    
-        .f-md-70 {
-            font-size: 70px;
-        }
-    
-        .f-md-71 {
-            font-size: 71px;
-        }
-    
-        .f-md-72 {
-            font-size: 72px;
-        }
-    
-        .f-md-73 {
-            font-size: 73px;
-        }
-    
-        .f-md-74 {
-            font-size: 74px;
-        }
-    
-        .f-md-75 {
-            font-size: 75px;
-        }
-    
-        .f-md-76 {
-            font-size: 76px;
-        }
-    
-        .f-md-77 {
-            font-size: 77px;
-        }
-    
-        .f-md-78 {
-            font-size: 78px;
-        }
-    
-        .f-md-79 {
-            font-size: 79px;
-        }
-    
-        .f-md-80 {
-            font-size: 80px;
-        }
-    
-        .f-md-81 {
-            font-size: 81px;
-        }
-    
-        .f-md-82 {
-            font-size: 82px;
-        }
-    
-        .f-md-83 {
-            font-size: 83px;
-        }
-    
-        .f-md-84 {
-            font-size: 84px;
-        }
-    
-        .f-md-85 {
-            font-size: 85px;
-        }
-    
-        .f-md-86 {
-            font-size: 86px;
-        }
-    
-        .f-md-87 {
-            font-size: 87px;
-        }
-    
-        .f-md-88 {
-            font-size: 88px;
-        }
-    
-        .f-md-89 {
-            font-size: 89px;
-        }
-    
-        .f-md-90 {
-            font-size: 90px;
-        }
-    
-        .f-md-91 {
-            font-size: 91px;
-        }
-    
-        .f-md-92 {
-            font-size: 92px;
-        }
-    
-        .f-md-93 {
-            font-size: 93px;
-        }
-    
-        .f-md-94 {
-            font-size: 94px;
-        }
-    
-        .f-md-95 {
-            font-size: 95px;
-        }
-    
-        .f-md-96 {
-            font-size: 96px;
-        }
-    
-        .f-md-97 {
-            font-size: 97px;
-        }
-    
-        .f-md-98 {
-            font-size: 98px;
-        }
-    
-        .f-md-99 {
-            font-size: 99px;
-        }
-    
-        .f-md-100 {
-            font-size: 100px;
-        }
+
+    .f-md-2 {
+        font-size: 2px;
     }
-    
-    @media (min-width: 992px) {
-        .f-lg-1 {
-            font-size: 1px;
-        }
-    
-        .f-lg-2 {
-            font-size: 2px;
-        }
-    
-        .f-lg-3 {
-            font-size: 3px;
-        }
-    
-        .f-lg-4 {
-            font-size: 4px;
-        }
-    
-        .f-lg-5 {
-            font-size: 5px;
-        }
-    
-        .f-lg-6 {
-            font-size: 6px;
-        }
-    
-        .f-lg-7 {
-            font-size: 7px;
-        }
-    
-        .f-lg-8 {
-            font-size: 8px;
-        }
-    
-        .f-lg-9 {
-            font-size: 9px;
-        }
-    
-        .f-lg-10 {
-            font-size: 10px;
-        }
-    
-        .f-lg-11 {
-            font-size: 11px;
-        }
-    
-        .f-lg-12 {
-            font-size: 12px;
-        }
-    
-        .f-lg-13 {
-            font-size: 13px;
-        }
-    
-        .f-lg-14 {
-            font-size: 14px;
-        }
-    
-        .f-lg-15 {
-            font-size: 15px;
-        }
-    
-        .f-lg-16 {
-            font-size: 16px;
-        }
-    
-        .f-lg-17 {
-            font-size: 17px;
-        }
-    
-        .f-lg-18 {
-            font-size: 18px;
-        }
-    
-        .f-lg-19 {
-            font-size: 19px;
-        }
-    
-        .f-lg-20 {
-            font-size: 20px;
-        }
-    
-        .f-lg-21 {
-            font-size: 21px;
-        }
-    
-        .f-lg-22 {
-            font-size: 22px;
-        }
-    
-        .f-lg-23 {
-            font-size: 23px;
-        }
-    
-        .f-lg-24 {
-            font-size: 24px;
-        }
-    
-        .f-lg-25 {
-            font-size: 25px;
-        }
-    
-        .f-lg-26 {
-            font-size: 26px;
-        }
-    
-        .f-lg-27 {
-            font-size: 27px;
-        }
-    
-        .f-lg-28 {
-            font-size: 28px;
-        }
-    
-        .f-lg-29 {
-            font-size: 29px;
-        }
-    
-        .f-lg-30 {
-            font-size: 30px;
-        }
-    
-        .f-lg-31 {
-            font-size: 31px;
-        }
-    
-        .f-lg-32 {
-            font-size: 32px;
-        }
-    
-        .f-lg-33 {
-            font-size: 33px;
-        }
-    
-        .f-lg-34 {
-            font-size: 34px;
-        }
-    
-        .f-lg-35 {
-            font-size: 35px;
-        }
-    
-        .f-lg-36 {
-            font-size: 36px;
-        }
-    
-        .f-lg-37 {
-            font-size: 37px;
-        }
-    
-        .f-lg-38 {
-            font-size: 38px;
-        }
-    
-        .f-lg-39 {
-            font-size: 39px;
-        }
-    
-        .f-lg-40 {
-            font-size: 40px;
-        }
-    
-        .f-lg-41 {
-            font-size: 41px;
-        }
-    
-        .f-lg-42 {
-            font-size: 42px;
-        }
-    
-        .f-lg-43 {
-            font-size: 43px;
-        }
-    
-        .f-lg-44 {
-            font-size: 44px;
-        }
-    
-        .f-lg-45 {
-            font-size: 45px;
-        }
-    
-        .f-lg-46 {
-            font-size: 46px;
-        }
-    
-        .f-lg-47 {
-            font-size: 47px;
-        }
-    
-        .f-lg-48 {
-            font-size: 48px;
-        }
-    
-        .f-lg-49 {
-            font-size: 49px;
-        }
-    
-        .f-lg-50 {
-            font-size: 50px;
-        }
-    
-        .f-lg-51 {
-            font-size: 52px;
-        }
-    
-        .f-lg-52 {
-            font-size: 52px;
-        }
-    
-        .f-lg-53 {
-            font-size: 53px;
-        }
-    
-        .f-lg-54 {
-            font-size: 54px;
-        }
-    
-        .f-lg-55 {
-            font-size: 55px;
-        }
-    
-        .f-lg-56 {
-            font-size: 56px;
-        }
-    
-        .f-lg-57 {
-            font-size: 57px;
-        }
-    
-        .f-lg-58 {
-            font-size: 58px;
-        }
-    
-        .f-lg-59 {
-            font-size: 59px;
-        }
-    
-        .f-lg-60 {
-            font-size: 60px;
-        }
-    
-        .f-lg-61 {
-            font-size: 61px;
-        }
-    
-        .f-lg-62 {
-            font-size: 62px;
-        }
-    
-        .f-lg-63 {
-            font-size: 63px;
-        }
-    
-        .f-lg-64 {
-            font-size: 64px;
-        }
-    
-        .f-lg-65 {
-            font-size: 65px;
-        }
-    
-        .f-lg-66 {
-            font-size: 66px;
-        }
-    
-        .f-lg-67 {
-            font-size: 67px;
-        }
-    
-        .f-lg-68 {
-            font-size: 68px;
-        }
-    
-        .f-lg-69 {
-            font-size: 69px;
-        }
-    
-        .f-lg-70 {
-            font-size: 70px;
-        }
-    
-        .f-lg-71 {
-            font-size: 71px;
-        }
-    
-        .f-lg-72 {
-            font-size: 72px;
-        }
-    
-        .f-lg-73 {
-            font-size: 73px;
-        }
-    
-        .f-lg-74 {
-            font-size: 74px;
-        }
-    
-        .f-lg-75 {
-            font-size: 75px;
-        }
-    
-        .f-lg-76 {
-            font-size: 76px;
-        }
-    
-        .f-lg-77 {
-            font-size: 77px;
-        }
-    
-        .f-lg-78 {
-            font-size: 78px;
-        }
-    
-        .f-lg-79 {
-            font-size: 79px;
-        }
-    
-        .f-lg-80 {
-            font-size: 80px;
-        }
-    
-        .f-lg-81 {
-            font-size: 81px;
-        }
-    
-        .f-lg-82 {
-            font-size: 82px;
-        }
-    
-        .f-lg-83 {
-            font-size: 83px;
-        }
-    
-        .f-lg-84 {
-            font-size: 84px;
-        }
-    
-        .f-lg-85 {
-            font-size: 85px;
-        }
-    
-        .f-lg-86 {
-            font-size: 86px;
-        }
-    
-        .f-lg-87 {
-            font-size: 87px;
-        }
-    
-        .f-lg-88 {
-            font-size: 88px;
-        }
-    
-        .f-lg-89 {
-            font-size: 89px;
-        }
-    
-        .f-lg-90 {
-            font-size: 90px;
-        }
-    
-        .f-lg-91 {
-            font-size: 91px;
-        }
-    
-        .f-lg-92 {
-            font-size: 92px;
-        }
-    
-        .f-lg-93 {
-            font-size: 93px;
-        }
-    
-        .f-lg-94 {
-            font-size: 94px;
-        }
-    
-        .f-lg-95 {
-            font-size: 95px;
-        }
-    
-        .f-lg-96 {
-            font-size: 96px;
-        }
-    
-        .f-lg-97 {
-            font-size: 97px;
-        }
-    
-        .f-lg-98 {
-            font-size: 98px;
-        }
-    
-        .f-lg-99 {
-            font-size: 99px;
-        }
-    
-        .f-lg-100 {
-            font-size: 100px;
-        }
+
+    .f-md-3 {
+        font-size: 3px;
     }
-    
-    @media (min-width: 1400px) {
-        .f-xl-1 {
-            font-size: 1px;
-        }
-    
-        .f-xl-2 {
-            font-size: 2px;
-        }
-    
-        .f-xl-3 {
-            font-size: 3px;
-        }
-    
-        .f-xl-4 {
-            font-size: 4px;
-        }
-    
-        .f-xl-5 {
-            font-size: 5px;
-        }
-    
-        .f-xl-6 {
-            font-size: 6px;
-        }
-    
-        .f-xl-7 {
-            font-size: 7px;
-        }
-    
-        .f-xl-8 {
-            font-size: 8px;
-        }
-    
-        .f-xl-9 {
-            font-size: 9px;
-        }
-    
-        .f-xl-10 {
-            font-size: 10px;
-        }
-    
-        .f-xl-11 {
-            font-size: 11px;
-        }
-    
-        .f-xl-12 {
-            font-size: 12px;
-        }
-    
-        .f-xl-13 {
-            font-size: 13px;
-        }
-    
-        .f-xl-14 {
-            font-size: 14px;
-        }
-    
-        .f-xl-15 {
-            font-size: 15px;
-        }
-    
-        .f-xl-16 {
-            font-size: 16px;
-        }
-    
-        .f-xl-17 {
-            font-size: 17px;
-        }
-    
-        .f-xl-18 {
-            font-size: 18px;
-        }
-    
-        .f-xl-19 {
-            font-size: 19px;
-        }
-    
-        .f-xl-20 {
-            font-size: 20px;
-        }
-    
-        .f-xl-21 {
-            font-size: 21px;
-        }
-    
-        .f-xl-22 {
-            font-size: 22px;
-        }
-    
-        .f-xl-23 {
-            font-size: 23px;
-        }
-    
-        .f-xl-24 {
-            font-size: 24px;
-        }
-    
-        .f-xl-25 {
-            font-size: 25px;
-        }
-    
-        .f-xl-26 {
-            font-size: 26px;
-        }
-    
-        .f-xl-27 {
-            font-size: 27px;
-        }
-    
-        .f-xl-28 {
-            font-size: 28px;
-        }
-    
-        .f-xl-29 {
-            font-size: 29px;
-        }
-    
-        .f-xl-30 {
-            font-size: 30px;
-        }
-    
-        .f-xl-31 {
-            font-size: 31px;
-        }
-    
-        .f-xl-32 {
-            font-size: 32px;
-        }
-    
-        .f-xl-33 {
-            font-size: 33px;
-        }
-    
-        .f-xl-34 {
-            font-size: 34px;
-        }
-    
-        .f-xl-35 {
-            font-size: 35px;
-        }
-    
-        .f-xl-36 {
-            font-size: 36px;
-        }
-    
-        .f-xl-37 {
-            font-size: 37px;
-        }
-    
-        .f-xl-38 {
-            font-size: 38px;
-        }
-    
-        .f-xl-39 {
-            font-size: 39px;
-        }
-    
-        .f-xl-40 {
-            font-size: 40px;
-        }
-    
-        .f-xl-41 {
-            font-size: 41px;
-        }
-    
-        .f-xl-42 {
-            font-size: 42px;
-        }
-    
-        .f-xl-43 {
-            font-size: 43px;
-        }
-    
-        .f-xl-44 {
-            font-size: 44px;
-        }
-    
-        .f-xl-45 {
-            font-size: 45px;
-        }
-    
-        .f-xl-46 {
-            font-size: 46px;
-        }
-    
-        .f-xl-47 {
-            font-size: 47px;
-        }
-    
-        .f-xl-48 {
-            font-size: 48px;
-        }
-    
-        .f-xl-49 {
-            font-size: 49px;
-        }
-    
-        .f-xl-50 {
-            font-size: 50px;
-        }
-    
-        .f-xl-51 {
-            font-size: 52px;
-        }
-    
-        .f-xl-52 {
-            font-size: 52px;
-        }
-    
-        .f-xl-53 {
-            font-size: 53px;
-        }
-    
-        .f-xl-54 {
-            font-size: 54px;
-        }
-    
-        .f-xl-55 {
-            font-size: 55px;
-        }
-    
-        .f-xl-56 {
-            font-size: 56px;
-        }
-    
-        .f-xl-57 {
-            font-size: 57px;
-        }
-    
-        .f-xl-58 {
-            font-size: 58px;
-        }
-    
-        .f-xl-59 {
-            font-size: 59px;
-        }
-    
-        .f-xl-60 {
-            font-size: 60px;
-        }
-    
-        .f-xl-61 {
-            font-size: 61px;
-        }
-    
-        .f-xl-62 {
-            font-size: 62px;
-        }
-    
-        .f-xl-63 {
-            font-size: 63px;
-        }
-    
-        .f-xl-64 {
-            font-size: 64px;
-        }
-    
-        .f-xl-65 {
-            font-size: 65px;
-        }
-    
-        .f-xl-66 {
-            font-size: 66px;
-        }
-    
-        .f-xl-67 {
-            font-size: 67px;
-        }
-    
-        .f-xl-68 {
-            font-size: 68px;
-        }
-    
-        .f-xl-69 {
-            font-size: 69px;
-        }
-    
-        .f-xl-70 {
-            font-size: 70px;
-        }
-    
-        .f-xl-71 {
-            font-size: 71px;
-        }
-    
-        .f-xl-72 {
-            font-size: 72px;
-        }
-    
-        .f-xl-73 {
-            font-size: 73px;
-        }
-    
-        .f-xl-74 {
-            font-size: 74px;
-        }
-    
-        .f-xl-75 {
-            font-size: 75px;
-        }
-    
-        .f-xl-76 {
-            font-size: 76px;
-        }
-    
-        .f-xl-77 {
-            font-size: 77px;
-        }
-    
-        .f-xl-78 {
-            font-size: 78px;
-        }
-    
-        .f-xl-79 {
-            font-size: 79px;
-        }
-    
-        .f-xl-80 {
-            font-size: 80px;
-        }
-    
-        .f-xl-81 {
-            font-size: 81px;
-        }
-    
-        .f-xl-82 {
-            font-size: 82px;
-        }
-    
-        .f-xl-83 {
-            font-size: 83px;
-        }
-    
-        .f-xl-84 {
-            font-size: 84px;
-        }
-    
-        .f-xl-85 {
-            font-size: 85px;
-        }
-    
-        .f-xl-86 {
-            font-size: 86px;
-        }
-    
-        .f-xl-87 {
-            font-size: 87px;
-        }
-    
-        .f-xl-88 {
-            font-size: 88px;
-        }
-    
-        .f-xl-89 {
-            font-size: 89px;
-        }
-    
-        .f-xl-90 {
-            font-size: 90px;
-        }
-    
-        .f-xl-91 {
-            font-size: 91px;
-        }
-    
-        .f-xl-92 {
-            font-size: 92px;
-        }
-    
-        .f-xl-93 {
-            font-size: 93px;
-        }
-    
-        .f-xl-94 {
-            font-size: 94px;
-        }
-    
-        .f-xl-95 {
-            font-size: 95px;
-        }
-    
-        .f-xl-96 {
-            font-size: 96px;
-        }
-    
-        .f-xl-97 {
-            font-size: 97px;
-        }
-    
-        .f-xl-98 {
-            font-size: 98px;
-        }
-    
-        .f-xl-99 {
-            font-size: 99px;
-        }
-    
-        .f-xl-100 {
-            font-size: 100px;
-        }
+
+    .f-md-4 {
+        font-size: 4px;
     }
-    
-    @media (min-width: 2000px) {
-        .f-xxl-1 {
-            font-size: 1px;
-        }
-    
-        .f-xxl-2 {
-            font-size: 2px;
-        }
-    
-        .f-xxl-3 {
-            font-size: 3px;
-        }
-    
-        .f-xxl-4 {
-            font-size: 4px;
-        }
-    
-        .f-xxl-5 {
-            font-size: 5px;
-        }
-    
-        .f-xxl-6 {
-            font-size: 6px;
-        }
-    
-        .f-xxl-7 {
-            font-size: 7px;
-        }
-    
-        .f-xxl-8 {
-            font-size: 8px;
-        }
-    
-        .f-xxl-9 {
-            font-size: 9px;
-        }
-    
-        .f-xxl-10 {
-            font-size: 10px;
-        }
-    
-        .f-xxl-11 {
-            font-size: 11px;
-        }
-    
-        .f-xxl-12 {
-            font-size: 12px;
-        }
-    
-        .f-xxl-13 {
-            font-size: 13px;
-        }
-    
-        .f-xxl-14 {
-            font-size: 14px;
-        }
-    
-        .f-xxl-15 {
-            font-size: 15px;
-        }
-    
-        .f-xxl-16 {
-            font-size: 16px;
-        }
-    
-        .f-xxl-17 {
-            font-size: 17px;
-        }
-    
-        .f-xxl-18 {
-            font-size: 18px;
-        }
-    
-        .f-xxl-19 {
-            font-size: 19px;
-        }
-    
-        .f-xxl-20 {
-            font-size: 20px;
-        }
-    
-        .f-xxl-21 {
-            font-size: 21px;
-        }
-    
-        .f-xxl-22 {
-            font-size: 22px;
-        }
-    
-        .f-xxl-23 {
-            font-size: 23px;
-        }
-    
-        .f-xxl-24 {
-            font-size: 24px;
-        }
-    
-        .f-xxl-25 {
-            font-size: 25px;
-        }
-    
-        .f-xxl-26 {
-            font-size: 26px;
-        }
-    
-        .f-xxl-27 {
-            font-size: 27px;
-        }
-    
-        .f-xxl-28 {
-            font-size: 28px;
-        }
-    
-        .f-xxl-29 {
-            font-size: 29px;
-        }
-    
-        .f-xxl-30 {
-            font-size: 30px;
-        }
-    
-        .f-xxl-31 {
-            font-size: 31px;
-        }
-    
-        .f-xxl-32 {
-            font-size: 32px;
-        }
-    
-        .f-xxl-33 {
-            font-size: 33px;
-        }
-    
-        .f-xxl-34 {
-            font-size: 34px;
-        }
-    
-        .f-xxl-35 {
-            font-size: 35px;
-        }
-    
-        .f-xxl-36 {
-            font-size: 36px;
-        }
-    
-        .f-xxl-37 {
-            font-size: 37px;
-        }
-    
-        .f-xxl-38 {
-            font-size: 38px;
-        }
-    
-        .f-xxl-39 {
-            font-size: 39px;
-        }
-    
-        .f-xxl-40 {
-            font-size: 40px;
-        }
-    
-        .f-xxl-41 {
-            font-size: 41px;
-        }
-    
-        .f-xxl-42 {
-            font-size: 42px;
-        }
-    
-        .f-xxl-43 {
-            font-size: 43px;
-        }
-    
-        .f-xxl-44 {
-            font-size: 44px;
-        }
-    
-        .f-xxl-45 {
-            font-size: 45px;
-        }
-    
-        .f-xxl-46 {
-            font-size: 46px;
-        }
-    
-        .f-xxl-47 {
-            font-size: 47px;
-        }
-    
-        .f-xxl-48 {
-            font-size: 48px;
-        }
-    
-        .f-xxl-49 {
-            font-size: 49px;
-        }
-    
-        .f-xxl-50 {
-            font-size: 50px;
-        }
-    
-        .f-xxl-51 {
-            font-size: 52px;
-        }
-    
-        .f-xxl-52 {
-            font-size: 52px;
-        }
-    
-        .f-xxl-53 {
-            font-size: 53px;
-        }
-    
-        .f-xxl-54 {
-            font-size: 54px;
-        }
-    
-        .f-xxl-55 {
-            font-size: 55px;
-        }
-    
-        .f-xxl-56 {
-            font-size: 56px;
-        }
-    
-        .f-xxl-57 {
-            font-size: 57px;
-        }
-    
-        .f-xxl-58 {
-            font-size: 58px;
-        }
-    
-        .f-xxl-59 {
-            font-size: 59px;
-        }
-    
-        .f-xxl-60 {
-            font-size: 60px;
-        }
-    
-        .f-xxl-61 {
-            font-size: 61px;
-        }
-    
-        .f-xxl-62 {
-            font-size: 62px;
-        }
-    
-        .f-xxl-63 {
-            font-size: 63px;
-        }
-    
-        .f-xxl-64 {
-            font-size: 64px;
-        }
-    
-        .f-xxl-65 {
-            font-size: 65px;
-        }
-    
-        .f-xxl-66 {
-            font-size: 66px;
-        }
-    
-        .f-xxl-67 {
-            font-size: 67px;
-        }
-    
-        .f-xxl-68 {
-            font-size: 68px;
-        }
-    
-        .f-xxl-69 {
-            font-size: 69px;
-        }
-    
-        .f-xxl-70 {
-            font-size: 70px;
-        }
-    
-        .f-xxl-71 {
-            font-size: 71px;
-        }
-    
-        .f-xxl-72 {
-            font-size: 72px;
-        }
-    
-        .f-xxl-73 {
-            font-size: 73px;
-        }
-    
-        .f-xxl-74 {
-            font-size: 74px;
-        }
-    
-        .f-xxl-75 {
-            font-size: 75px;
-        }
-    
-        .f-xxl-76 {
-            font-size: 76px;
-        }
-    
-        .f-xxl-77 {
-            font-size: 77px;
-        }
-    
-        .f-xxl-78 {
-            font-size: 78px;
-        }
-    
-        .f-xxl-79 {
-            font-size: 79px;
-        }
-    
-        .f-xxl-80 {
-            font-size: 80px;
-        }
-    
-        .f-xxl-81 {
-            font-size: 81px;
-        }
-    
-        .f-xxl-82 {
-            font-size: 82px;
-        }
-    
-        .f-xxl-83 {
-            font-size: 83px;
-        }
-    
-        .f-xxl-84 {
-            font-size: 84px;
-        }
-    
-        .f-xxl-85 {
-            font-size: 85px;
-        }
-    
-        .f-xxl-86 {
-            font-size: 86px;
-        }
-    
-        .f-xxl-87 {
-            font-size: 87px;
-        }
-    
-        .f-xxl-88 {
-            font-size: 88px;
-        }
-    
-        .f-xxl-89 {
-            font-size: 89px;
-        }
-    
-        .f-xxl-90 {
-            font-size: 90px;
-        }
-    
-        .f-xxl-91 {
-            font-size: 91px;
-        }
-    
-        .f-xxl-92 {
-            font-size: 92px;
-        }
-    
-        .f-xxl-93 {
-            font-size: 93px;
-        }
-    
-        .f-xxl-94 {
-            font-size: 94px;
-        }
-    
-        .f-xxl-95 {
-            font-size: 95px;
-        }
-    
-        .f-xxl-96 {
-            font-size: 96px;
-        }
-    
-        .f-xxl-97 {
-            font-size: 97px;
-        }
-    
-        .f-xxl-98 {
-            font-size: 98px;
-        }
-    
-        .f-xxl-99 {
-            font-size: 99px;
-        }
-    
-        .f-xxl-100 {
-            font-size: 100px;
-        }
+
+    .f-md-5 {
+        font-size: 5px;
     }
+
+    .f-md-6 {
+        font-size: 6px;
+    }
+
+    .f-md-7 {
+        font-size: 7px;
+    }
+
+    .f-md-8 {
+        font-size: 8px;
+    }
+
+    .f-md-9 {
+        font-size: 9px;
+    }
+
+    .f-md-10 {
+        font-size: 10px;
+    }
+
+    .f-md-11 {
+        font-size: 11px;
+    }
+
+    .f-md-12 {
+        font-size: 12px;
+    }
+
+    .f-md-13 {
+        font-size: 13px;
+    }
+
+    .f-md-14 {
+        font-size: 14px;
+    }
+
+    .f-md-15 {
+        font-size: 15px;
+    }
+
+    .f-md-16 {
+        font-size: 16px;
+    }
+
+    .f-md-17 {
+        font-size: 17px;
+    }
+
+    .f-md-18 {
+        font-size: 18px;
+    }
+
+    .f-md-19 {
+        font-size: 19px;
+    }
+
+    .f-md-20 {
+        font-size: 20px;
+    }
+
+    .f-md-21 {
+        font-size: 21px;
+    }
+
+    .f-md-22 {
+        font-size: 22px;
+    }
+
+    .f-md-23 {
+        font-size: 23px;
+    }
+
+    .f-md-24 {
+        font-size: 24px;
+    }
+
+    .f-md-25 {
+        font-size: 25px;
+    }
+
+    .f-md-26 {
+        font-size: 26px;
+    }
+
+    .f-md-27 {
+        font-size: 27px;
+    }
+
+    .f-md-28 {
+        font-size: 28px;
+    }
+
+    .f-md-29 {
+        font-size: 29px;
+    }
+
+    .f-md-30 {
+        font-size: 30px;
+    }
+
+    .f-md-31 {
+        font-size: 31px;
+    }
+
+    .f-md-32 {
+        font-size: 32px;
+    }
+
+    .f-md-33 {
+        font-size: 33px;
+    }
+
+    .f-md-34 {
+        font-size: 34px;
+    }
+
+    .f-md-35 {
+        font-size: 35px;
+    }
+
+    .f-md-36 {
+        font-size: 36px;
+    }
+
+    .f-md-37 {
+        font-size: 37px;
+    }
+
+    .f-md-38 {
+        font-size: 38px;
+    }
+
+    .f-md-39 {
+        font-size: 39px;
+    }
+
+    .f-md-40 {
+        font-size: 40px;
+    }
+
+    .f-md-41 {
+        font-size: 41px;
+    }
+
+    .f-md-42 {
+        font-size: 42px;
+    }
+
+    .f-md-43 {
+        font-size: 43px;
+    }
+
+    .f-md-44 {
+        font-size: 44px;
+    }
+
+    .f-md-45 {
+        font-size: 45px;
+    }
+
+    .f-md-46 {
+        font-size: 46px;
+    }
+
+    .f-md-47 {
+        font-size: 47px;
+    }
+
+    .f-md-48 {
+        font-size: 48px;
+    }
+
+    .f-md-49 {
+        font-size: 49px;
+    }
+
+    .f-md-50 {
+        font-size: 50px;
+    }
+
+    .f-md-51 {
+        font-size: 52px;
+    }
+
+    .f-md-52 {
+        font-size: 52px;
+    }
+
+    .f-md-53 {
+        font-size: 53px;
+    }
+
+    .f-md-54 {
+        font-size: 54px;
+    }
+
+    .f-md-55 {
+        font-size: 55px;
+    }
+
+    .f-md-56 {
+        font-size: 56px;
+    }
+
+    .f-md-57 {
+        font-size: 57px;
+    }
+
+    .f-md-58 {
+        font-size: 58px;
+    }
+
+    .f-md-59 {
+        font-size: 59px;
+    }
+
+    .f-md-60 {
+        font-size: 60px;
+    }
+
+    .f-md-61 {
+        font-size: 61px;
+    }
+
+    .f-md-62 {
+        font-size: 62px;
+    }
+
+    .f-md-63 {
+        font-size: 63px;
+    }
+
+    .f-md-64 {
+        font-size: 64px;
+    }
+
+    .f-md-65 {
+        font-size: 65px;
+    }
+
+    .f-md-66 {
+        font-size: 66px;
+    }
+
+    .f-md-67 {
+        font-size: 67px;
+    }
+
+    .f-md-68 {
+        font-size: 68px;
+    }
+
+    .f-md-69 {
+        font-size: 69px;
+    }
+
+    .f-md-70 {
+        font-size: 70px;
+    }
+
+    .f-md-71 {
+        font-size: 71px;
+    }
+
+    .f-md-72 {
+        font-size: 72px;
+    }
+
+    .f-md-73 {
+        font-size: 73px;
+    }
+
+    .f-md-74 {
+        font-size: 74px;
+    }
+
+    .f-md-75 {
+        font-size: 75px;
+    }
+
+    .f-md-76 {
+        font-size: 76px;
+    }
+
+    .f-md-77 {
+        font-size: 77px;
+    }
+
+    .f-md-78 {
+        font-size: 78px;
+    }
+
+    .f-md-79 {
+        font-size: 79px;
+    }
+
+    .f-md-80 {
+        font-size: 80px;
+    }
+
+    .f-md-81 {
+        font-size: 81px;
+    }
+
+    .f-md-82 {
+        font-size: 82px;
+    }
+
+    .f-md-83 {
+        font-size: 83px;
+    }
+
+    .f-md-84 {
+        font-size: 84px;
+    }
+
+    .f-md-85 {
+        font-size: 85px;
+    }
+
+    .f-md-86 {
+        font-size: 86px;
+    }
+
+    .f-md-87 {
+        font-size: 87px;
+    }
+
+    .f-md-88 {
+        font-size: 88px;
+    }
+
+    .f-md-89 {
+        font-size: 89px;
+    }
+
+    .f-md-90 {
+        font-size: 90px;
+    }
+
+    .f-md-91 {
+        font-size: 91px;
+    }
+
+    .f-md-92 {
+        font-size: 92px;
+    }
+
+    .f-md-93 {
+        font-size: 93px;
+    }
+
+    .f-md-94 {
+        font-size: 94px;
+    }
+
+    .f-md-95 {
+        font-size: 95px;
+    }
+
+    .f-md-96 {
+        font-size: 96px;
+    }
+
+    .f-md-97 {
+        font-size: 97px;
+    }
+
+    .f-md-98 {
+        font-size: 98px;
+    }
+
+    .f-md-99 {
+        font-size: 99px;
+    }
+
+    .f-md-100 {
+        font-size: 100px;
+    }
+}
+
+@media (min-width: 992px) {
+    .f-lg-1 {
+        font-size: 1px;
+    }
+
+    .f-lg-2 {
+        font-size: 2px;
+    }
+
+    .f-lg-3 {
+        font-size: 3px;
+    }
+
+    .f-lg-4 {
+        font-size: 4px;
+    }
+
+    .f-lg-5 {
+        font-size: 5px;
+    }
+
+    .f-lg-6 {
+        font-size: 6px;
+    }
+
+    .f-lg-7 {
+        font-size: 7px;
+    }
+
+    .f-lg-8 {
+        font-size: 8px;
+    }
+
+    .f-lg-9 {
+        font-size: 9px;
+    }
+
+    .f-lg-10 {
+        font-size: 10px;
+    }
+
+    .f-lg-11 {
+        font-size: 11px;
+    }
+
+    .f-lg-12 {
+        font-size: 12px;
+    }
+
+    .f-lg-13 {
+        font-size: 13px;
+    }
+
+    .f-lg-14 {
+        font-size: 14px;
+    }
+
+    .f-lg-15 {
+        font-size: 15px;
+    }
+
+    .f-lg-16 {
+        font-size: 16px;
+    }
+
+    .f-lg-17 {
+        font-size: 17px;
+    }
+
+    .f-lg-18 {
+        font-size: 18px;
+    }
+
+    .f-lg-19 {
+        font-size: 19px;
+    }
+
+    .f-lg-20 {
+        font-size: 20px;
+    }
+
+    .f-lg-21 {
+        font-size: 21px;
+    }
+
+    .f-lg-22 {
+        font-size: 22px;
+    }
+
+    .f-lg-23 {
+        font-size: 23px;
+    }
+
+    .f-lg-24 {
+        font-size: 24px;
+    }
+
+    .f-lg-25 {
+        font-size: 25px;
+    }
+
+    .f-lg-26 {
+        font-size: 26px;
+    }
+
+    .f-lg-27 {
+        font-size: 27px;
+    }
+
+    .f-lg-28 {
+        font-size: 28px;
+    }
+
+    .f-lg-29 {
+        font-size: 29px;
+    }
+
+    .f-lg-30 {
+        font-size: 30px;
+    }
+
+    .f-lg-31 {
+        font-size: 31px;
+    }
+
+    .f-lg-32 {
+        font-size: 32px;
+    }
+
+    .f-lg-33 {
+        font-size: 33px;
+    }
+
+    .f-lg-34 {
+        font-size: 34px;
+    }
+
+    .f-lg-35 {
+        font-size: 35px;
+    }
+
+    .f-lg-36 {
+        font-size: 36px;
+    }
+
+    .f-lg-37 {
+        font-size: 37px;
+    }
+
+    .f-lg-38 {
+        font-size: 38px;
+    }
+
+    .f-lg-39 {
+        font-size: 39px;
+    }
+
+    .f-lg-40 {
+        font-size: 40px;
+    }
+
+    .f-lg-41 {
+        font-size: 41px;
+    }
+
+    .f-lg-42 {
+        font-size: 42px;
+    }
+
+    .f-lg-43 {
+        font-size: 43px;
+    }
+
+    .f-lg-44 {
+        font-size: 44px;
+    }
+
+    .f-lg-45 {
+        font-size: 45px;
+    }
+
+    .f-lg-46 {
+        font-size: 46px;
+    }
+
+    .f-lg-47 {
+        font-size: 47px;
+    }
+
+    .f-lg-48 {
+        font-size: 48px;
+    }
+
+    .f-lg-49 {
+        font-size: 49px;
+    }
+
+    .f-lg-50 {
+        font-size: 50px;
+    }
+
+    .f-lg-51 {
+        font-size: 52px;
+    }
+
+    .f-lg-52 {
+        font-size: 52px;
+    }
+
+    .f-lg-53 {
+        font-size: 53px;
+    }
+
+    .f-lg-54 {
+        font-size: 54px;
+    }
+
+    .f-lg-55 {
+        font-size: 55px;
+    }
+
+    .f-lg-56 {
+        font-size: 56px;
+    }
+
+    .f-lg-57 {
+        font-size: 57px;
+    }
+
+    .f-lg-58 {
+        font-size: 58px;
+    }
+
+    .f-lg-59 {
+        font-size: 59px;
+    }
+
+    .f-lg-60 {
+        font-size: 60px;
+    }
+
+    .f-lg-61 {
+        font-size: 61px;
+    }
+
+    .f-lg-62 {
+        font-size: 62px;
+    }
+
+    .f-lg-63 {
+        font-size: 63px;
+    }
+
+    .f-lg-64 {
+        font-size: 64px;
+    }
+
+    .f-lg-65 {
+        font-size: 65px;
+    }
+
+    .f-lg-66 {
+        font-size: 66px;
+    }
+
+    .f-lg-67 {
+        font-size: 67px;
+    }
+
+    .f-lg-68 {
+        font-size: 68px;
+    }
+
+    .f-lg-69 {
+        font-size: 69px;
+    }
+
+    .f-lg-70 {
+        font-size: 70px;
+    }
+
+    .f-lg-71 {
+        font-size: 71px;
+    }
+
+    .f-lg-72 {
+        font-size: 72px;
+    }
+
+    .f-lg-73 {
+        font-size: 73px;
+    }
+
+    .f-lg-74 {
+        font-size: 74px;
+    }
+
+    .f-lg-75 {
+        font-size: 75px;
+    }
+
+    .f-lg-76 {
+        font-size: 76px;
+    }
+
+    .f-lg-77 {
+        font-size: 77px;
+    }
+
+    .f-lg-78 {
+        font-size: 78px;
+    }
+
+    .f-lg-79 {
+        font-size: 79px;
+    }
+
+    .f-lg-80 {
+        font-size: 80px;
+    }
+
+    .f-lg-81 {
+        font-size: 81px;
+    }
+
+    .f-lg-82 {
+        font-size: 82px;
+    }
+
+    .f-lg-83 {
+        font-size: 83px;
+    }
+
+    .f-lg-84 {
+        font-size: 84px;
+    }
+
+    .f-lg-85 {
+        font-size: 85px;
+    }
+
+    .f-lg-86 {
+        font-size: 86px;
+    }
+
+    .f-lg-87 {
+        font-size: 87px;
+    }
+
+    .f-lg-88 {
+        font-size: 88px;
+    }
+
+    .f-lg-89 {
+        font-size: 89px;
+    }
+
+    .f-lg-90 {
+        font-size: 90px;
+    }
+
+    .f-lg-91 {
+        font-size: 91px;
+    }
+
+    .f-lg-92 {
+        font-size: 92px;
+    }
+
+    .f-lg-93 {
+        font-size: 93px;
+    }
+
+    .f-lg-94 {
+        font-size: 94px;
+    }
+
+    .f-lg-95 {
+        font-size: 95px;
+    }
+
+    .f-lg-96 {
+        font-size: 96px;
+    }
+
+    .f-lg-97 {
+        font-size: 97px;
+    }
+
+    .f-lg-98 {
+        font-size: 98px;
+    }
+
+    .f-lg-99 {
+        font-size: 99px;
+    }
+
+    .f-lg-100 {
+        font-size: 100px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .f-xl-1 {
+        font-size: 1px;
+    }
+
+    .f-xl-2 {
+        font-size: 2px;
+    }
+
+    .f-xl-3 {
+        font-size: 3px;
+    }
+
+    .f-xl-4 {
+        font-size: 4px;
+    }
+
+    .f-xl-5 {
+        font-size: 5px;
+    }
+
+    .f-xl-6 {
+        font-size: 6px;
+    }
+
+    .f-xl-7 {
+        font-size: 7px;
+    }
+
+    .f-xl-8 {
+        font-size: 8px;
+    }
+
+    .f-xl-9 {
+        font-size: 9px;
+    }
+
+    .f-xl-10 {
+        font-size: 10px;
+    }
+
+    .f-xl-11 {
+        font-size: 11px;
+    }
+
+    .f-xl-12 {
+        font-size: 12px;
+    }
+
+    .f-xl-13 {
+        font-size: 13px;
+    }
+
+    .f-xl-14 {
+        font-size: 14px;
+    }
+
+    .f-xl-15 {
+        font-size: 15px;
+    }
+
+    .f-xl-16 {
+        font-size: 16px;
+    }
+
+    .f-xl-17 {
+        font-size: 17px;
+    }
+
+    .f-xl-18 {
+        font-size: 18px;
+    }
+
+    .f-xl-19 {
+        font-size: 19px;
+    }
+
+    .f-xl-20 {
+        font-size: 20px;
+    }
+
+    .f-xl-21 {
+        font-size: 21px;
+    }
+
+    .f-xl-22 {
+        font-size: 22px;
+    }
+
+    .f-xl-23 {
+        font-size: 23px;
+    }
+
+    .f-xl-24 {
+        font-size: 24px;
+    }
+
+    .f-xl-25 {
+        font-size: 25px;
+    }
+
+    .f-xl-26 {
+        font-size: 26px;
+    }
+
+    .f-xl-27 {
+        font-size: 27px;
+    }
+
+    .f-xl-28 {
+        font-size: 28px;
+    }
+
+    .f-xl-29 {
+        font-size: 29px;
+    }
+
+    .f-xl-30 {
+        font-size: 30px;
+    }
+
+    .f-xl-31 {
+        font-size: 31px;
+    }
+
+    .f-xl-32 {
+        font-size: 32px;
+    }
+
+    .f-xl-33 {
+        font-size: 33px;
+    }
+
+    .f-xl-34 {
+        font-size: 34px;
+    }
+
+    .f-xl-35 {
+        font-size: 35px;
+    }
+
+    .f-xl-36 {
+        font-size: 36px;
+    }
+
+    .f-xl-37 {
+        font-size: 37px;
+    }
+
+    .f-xl-38 {
+        font-size: 38px;
+    }
+
+    .f-xl-39 {
+        font-size: 39px;
+    }
+
+    .f-xl-40 {
+        font-size: 40px;
+    }
+
+    .f-xl-41 {
+        font-size: 41px;
+    }
+
+    .f-xl-42 {
+        font-size: 42px;
+    }
+
+    .f-xl-43 {
+        font-size: 43px;
+    }
+
+    .f-xl-44 {
+        font-size: 44px;
+    }
+
+    .f-xl-45 {
+        font-size: 45px;
+    }
+
+    .f-xl-46 {
+        font-size: 46px;
+    }
+
+    .f-xl-47 {
+        font-size: 47px;
+    }
+
+    .f-xl-48 {
+        font-size: 48px;
+    }
+
+    .f-xl-49 {
+        font-size: 49px;
+    }
+
+    .f-xl-50 {
+        font-size: 50px;
+    }
+
+    .f-xl-51 {
+        font-size: 52px;
+    }
+
+    .f-xl-52 {
+        font-size: 52px;
+    }
+
+    .f-xl-53 {
+        font-size: 53px;
+    }
+
+    .f-xl-54 {
+        font-size: 54px;
+    }
+
+    .f-xl-55 {
+        font-size: 55px;
+    }
+
+    .f-xl-56 {
+        font-size: 56px;
+    }
+
+    .f-xl-57 {
+        font-size: 57px;
+    }
+
+    .f-xl-58 {
+        font-size: 58px;
+    }
+
+    .f-xl-59 {
+        font-size: 59px;
+    }
+
+    .f-xl-60 {
+        font-size: 60px;
+    }
+
+    .f-xl-61 {
+        font-size: 61px;
+    }
+
+    .f-xl-62 {
+        font-size: 62px;
+    }
+
+    .f-xl-63 {
+        font-size: 63px;
+    }
+
+    .f-xl-64 {
+        font-size: 64px;
+    }
+
+    .f-xl-65 {
+        font-size: 65px;
+    }
+
+    .f-xl-66 {
+        font-size: 66px;
+    }
+
+    .f-xl-67 {
+        font-size: 67px;
+    }
+
+    .f-xl-68 {
+        font-size: 68px;
+    }
+
+    .f-xl-69 {
+        font-size: 69px;
+    }
+
+    .f-xl-70 {
+        font-size: 70px;
+    }
+
+    .f-xl-71 {
+        font-size: 71px;
+    }
+
+    .f-xl-72 {
+        font-size: 72px;
+    }
+
+    .f-xl-73 {
+        font-size: 73px;
+    }
+
+    .f-xl-74 {
+        font-size: 74px;
+    }
+
+    .f-xl-75 {
+        font-size: 75px;
+    }
+
+    .f-xl-76 {
+        font-size: 76px;
+    }
+
+    .f-xl-77 {
+        font-size: 77px;
+    }
+
+    .f-xl-78 {
+        font-size: 78px;
+    }
+
+    .f-xl-79 {
+        font-size: 79px;
+    }
+
+    .f-xl-80 {
+        font-size: 80px;
+    }
+
+    .f-xl-81 {
+        font-size: 81px;
+    }
+
+    .f-xl-82 {
+        font-size: 82px;
+    }
+
+    .f-xl-83 {
+        font-size: 83px;
+    }
+
+    .f-xl-84 {
+        font-size: 84px;
+    }
+
+    .f-xl-85 {
+        font-size: 85px;
+    }
+
+    .f-xl-86 {
+        font-size: 86px;
+    }
+
+    .f-xl-87 {
+        font-size: 87px;
+    }
+
+    .f-xl-88 {
+        font-size: 88px;
+    }
+
+    .f-xl-89 {
+        font-size: 89px;
+    }
+
+    .f-xl-90 {
+        font-size: 90px;
+    }
+
+    .f-xl-91 {
+        font-size: 91px;
+    }
+
+    .f-xl-92 {
+        font-size: 92px;
+    }
+
+    .f-xl-93 {
+        font-size: 93px;
+    }
+
+    .f-xl-94 {
+        font-size: 94px;
+    }
+
+    .f-xl-95 {
+        font-size: 95px;
+    }
+
+    .f-xl-96 {
+        font-size: 96px;
+    }
+
+    .f-xl-97 {
+        font-size: 97px;
+    }
+
+    .f-xl-98 {
+        font-size: 98px;
+    }
+
+    .f-xl-99 {
+        font-size: 99px;
+    }
+
+    .f-xl-100 {
+        font-size: 100px;
+    }
+}
+
+@media (min-width: 2000px) {
+    .f-xxl-1 {
+        font-size: 1px;
+    }
+
+    .f-xxl-2 {
+        font-size: 2px;
+    }
+
+    .f-xxl-3 {
+        font-size: 3px;
+    }
+
+    .f-xxl-4 {
+        font-size: 4px;
+    }
+
+    .f-xxl-5 {
+        font-size: 5px;
+    }
+
+    .f-xxl-6 {
+        font-size: 6px;
+    }
+
+    .f-xxl-7 {
+        font-size: 7px;
+    }
+
+    .f-xxl-8 {
+        font-size: 8px;
+    }
+
+    .f-xxl-9 {
+        font-size: 9px;
+    }
+
+    .f-xxl-10 {
+        font-size: 10px;
+    }
+
+    .f-xxl-11 {
+        font-size: 11px;
+    }
+
+    .f-xxl-12 {
+        font-size: 12px;
+    }
+
+    .f-xxl-13 {
+        font-size: 13px;
+    }
+
+    .f-xxl-14 {
+        font-size: 14px;
+    }
+
+    .f-xxl-15 {
+        font-size: 15px;
+    }
+
+    .f-xxl-16 {
+        font-size: 16px;
+    }
+
+    .f-xxl-17 {
+        font-size: 17px;
+    }
+
+    .f-xxl-18 {
+        font-size: 18px;
+    }
+
+    .f-xxl-19 {
+        font-size: 19px;
+    }
+
+    .f-xxl-20 {
+        font-size: 20px;
+    }
+
+    .f-xxl-21 {
+        font-size: 21px;
+    }
+
+    .f-xxl-22 {
+        font-size: 22px;
+    }
+
+    .f-xxl-23 {
+        font-size: 23px;
+    }
+
+    .f-xxl-24 {
+        font-size: 24px;
+    }
+
+    .f-xxl-25 {
+        font-size: 25px;
+    }
+
+    .f-xxl-26 {
+        font-size: 26px;
+    }
+
+    .f-xxl-27 {
+        font-size: 27px;
+    }
+
+    .f-xxl-28 {
+        font-size: 28px;
+    }
+
+    .f-xxl-29 {
+        font-size: 29px;
+    }
+
+    .f-xxl-30 {
+        font-size: 30px;
+    }
+
+    .f-xxl-31 {
+        font-size: 31px;
+    }
+
+    .f-xxl-32 {
+        font-size: 32px;
+    }
+
+    .f-xxl-33 {
+        font-size: 33px;
+    }
+
+    .f-xxl-34 {
+        font-size: 34px;
+    }
+
+    .f-xxl-35 {
+        font-size: 35px;
+    }
+
+    .f-xxl-36 {
+        font-size: 36px;
+    }
+
+    .f-xxl-37 {
+        font-size: 37px;
+    }
+
+    .f-xxl-38 {
+        font-size: 38px;
+    }
+
+    .f-xxl-39 {
+        font-size: 39px;
+    }
+
+    .f-xxl-40 {
+        font-size: 40px;
+    }
+
+    .f-xxl-41 {
+        font-size: 41px;
+    }
+
+    .f-xxl-42 {
+        font-size: 42px;
+    }
+
+    .f-xxl-43 {
+        font-size: 43px;
+    }
+
+    .f-xxl-44 {
+        font-size: 44px;
+    }
+
+    .f-xxl-45 {
+        font-size: 45px;
+    }
+
+    .f-xxl-46 {
+        font-size: 46px;
+    }
+
+    .f-xxl-47 {
+        font-size: 47px;
+    }
+
+    .f-xxl-48 {
+        font-size: 48px;
+    }
+
+    .f-xxl-49 {
+        font-size: 49px;
+    }
+
+    .f-xxl-50 {
+        font-size: 50px;
+    }
+
+    .f-xxl-51 {
+        font-size: 52px;
+    }
+
+    .f-xxl-52 {
+        font-size: 52px;
+    }
+
+    .f-xxl-53 {
+        font-size: 53px;
+    }
+
+    .f-xxl-54 {
+        font-size: 54px;
+    }
+
+    .f-xxl-55 {
+        font-size: 55px;
+    }
+
+    .f-xxl-56 {
+        font-size: 56px;
+    }
+
+    .f-xxl-57 {
+        font-size: 57px;
+    }
+
+    .f-xxl-58 {
+        font-size: 58px;
+    }
+
+    .f-xxl-59 {
+        font-size: 59px;
+    }
+
+    .f-xxl-60 {
+        font-size: 60px;
+    }
+
+    .f-xxl-61 {
+        font-size: 61px;
+    }
+
+    .f-xxl-62 {
+        font-size: 62px;
+    }
+
+    .f-xxl-63 {
+        font-size: 63px;
+    }
+
+    .f-xxl-64 {
+        font-size: 64px;
+    }
+
+    .f-xxl-65 {
+        font-size: 65px;
+    }
+
+    .f-xxl-66 {
+        font-size: 66px;
+    }
+
+    .f-xxl-67 {
+        font-size: 67px;
+    }
+
+    .f-xxl-68 {
+        font-size: 68px;
+    }
+
+    .f-xxl-69 {
+        font-size: 69px;
+    }
+
+    .f-xxl-70 {
+        font-size: 70px;
+    }
+
+    .f-xxl-71 {
+        font-size: 71px;
+    }
+
+    .f-xxl-72 {
+        font-size: 72px;
+    }
+
+    .f-xxl-73 {
+        font-size: 73px;
+    }
+
+    .f-xxl-74 {
+        font-size: 74px;
+    }
+
+    .f-xxl-75 {
+        font-size: 75px;
+    }
+
+    .f-xxl-76 {
+        font-size: 76px;
+    }
+
+    .f-xxl-77 {
+        font-size: 77px;
+    }
+
+    .f-xxl-78 {
+        font-size: 78px;
+    }
+
+    .f-xxl-79 {
+        font-size: 79px;
+    }
+
+    .f-xxl-80 {
+        font-size: 80px;
+    }
+
+    .f-xxl-81 {
+        font-size: 81px;
+    }
+
+    .f-xxl-82 {
+        font-size: 82px;
+    }
+
+    .f-xxl-83 {
+        font-size: 83px;
+    }
+
+    .f-xxl-84 {
+        font-size: 84px;
+    }
+
+    .f-xxl-85 {
+        font-size: 85px;
+    }
+
+    .f-xxl-86 {
+        font-size: 86px;
+    }
+
+    .f-xxl-87 {
+        font-size: 87px;
+    }
+
+    .f-xxl-88 {
+        font-size: 88px;
+    }
+
+    .f-xxl-89 {
+        font-size: 89px;
+    }
+
+    .f-xxl-90 {
+        font-size: 90px;
+    }
+
+    .f-xxl-91 {
+        font-size: 91px;
+    }
+
+    .f-xxl-92 {
+        font-size: 92px;
+    }
+
+    .f-xxl-93 {
+        font-size: 93px;
+    }
+
+    .f-xxl-94 {
+        font-size: 94px;
+    }
+
+    .f-xxl-95 {
+        font-size: 95px;
+    }
+
+    .f-xxl-96 {
+        font-size: 96px;
+    }
+
+    .f-xxl-97 {
+        font-size: 97px;
+    }
+
+    .f-xxl-98 {
+        font-size: 98px;
+    }
+
+    .f-xxl-99 {
+        font-size: 99px;
+    }
+
+    .f-xxl-100 {
+        font-size: 100px;
+    }
+}

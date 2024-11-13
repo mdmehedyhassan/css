@@ -446,16 +446,49 @@
     .d-sm-block {
         display: block;
     }
+
     .text-sm-start {
         text-align: left;
     }
-    
+
     .text-sm-end {
         text-align: right;
     }
-    
+
     .text-sm-center {
         text-align: center;
+    }
+
+    .w-sm-25 {
+        width: 25% !important;
+    }
+
+    .w-sm-50 {
+        width: 50% !important;
+    }
+
+    .w-sm-75 {
+        width: 75% !important;
+    }
+
+    .w-sm-100 {
+        width: 100% !important;
+    }
+
+    .h-sm-25 {
+        height: 25% !important;
+    }
+
+    .h-sm-50 {
+        height: 50% !important;
+    }
+
+    .h-sm-75 {
+        height: 75% !important;
+    }
+
+    .h-sm-100 {
+        height: 100% !important;
     }
 
     .flex-sm-row {
@@ -589,17 +622,51 @@
     .d-xxl-block {
         display: block;
     }
+
     .text-xxl-start {
         text-align: left;
     }
-    
+
     .text-xxl-end {
         text-align: right;
     }
-    
+
     .text-xxl-center {
         text-align: center;
     }
+
+    .w-xxl-25 {
+        width: 25% !important;
+    }
+
+    .w-xxl-50 {
+        width: 50% !important;
+    }
+
+    .w-xxl-75 {
+        width: 75% !important;
+    }
+
+    .w-xxl-100 {
+        width: 100% !important;
+    }
+
+    .h-xxl-25 {
+        height: 25% !important;
+    }
+
+    .h-xxl-50 {
+        height: 50% !important;
+    }
+
+    .h-xxl-75 {
+        height: 75% !important;
+    }
+
+    .h-xxl-100 {
+        height: 100% !important;
+    }
+
     .flex-xxl-row {
         flex-direction: row !important;
     }
@@ -720,6 +787,7 @@
         align-self: stretch !important;
     }
 }
+
 .p-0 {
     padding: 0;
 }
@@ -5232,33 +5300,43 @@
     }
 
 }
-.fw-100{
+
+.fw-100 {
     font-weight: 100;
 }
-.fw-200{
+
+.fw-200 {
     font-weight: 200;
 }
-.fw-300{
+
+.fw-300 {
     font-weight: 300;
 }
-.fw-400{
+
+.fw-400 {
     font-weight: 400;
 }
-.fw-500{
+
+.fw-500 {
     font-weight: 500;
 }
-.fw-600{
+
+.fw-600 {
     font-weight: 600;
 }
-.fw-700{
+
+.fw-700 {
     font-weight: 700;
 }
-.fw-800{
+
+.fw-800 {
     font-weight: 800;
 }
-.fw-900{
+
+.fw-900 {
     font-weight: 900;
 }
+
 .f-1 {
     font-size: 1px;
 }
